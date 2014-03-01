@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metapost.php:21
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:34
+msgid "% Comments"
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/404.php:20
+msgid "&larr; Head Home"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add a Client Name for this Project?"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add a URL for this Project?"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "(Optional) Add the Date this Project Took Place?"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "(Optional) Detail(s) of your Additional Meta, match to titles above"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "(Optional) Title(s) of your Additional Meta, match to details below"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metapost.php:21
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:34
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metapost.php:21
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:34
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/404.php:19
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Additional Item Detail(s)"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Additional Item Title(s)"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Additional Portfolio Item Details"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Cancel"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metaportfolio.php:7
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Check to disable meta items (Details, Sharing) for this post"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Check to disable the page title & header for this page."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Check to disable the sidebar on this post."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metaportfolio.php:7
+msgid "Client"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Client Name"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Client URL"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Contact Page Options"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metaportfolio.php:7
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Disable Meta Items?"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Disable Page Title"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Disable Post Sidebar"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metapost.php:9
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Email *"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter a URL for this client, if left blank, client logo will open into a lightbox."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter the URL for Social Icon 1 e.g www.google.com"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter the URL for Social Icon 3 e.g www.google.com"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter the URL for Social Icon 4 e.g www.google.com"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter the URL for Social Icon 5 e.g www.google.com"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Enter the URL for Social Icon 6 e.g www.google.com"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Enter your comment here..."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/theme_functions.php:313
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/theme_functions.php:313
+msgid "First"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/search.php:34
+msgid "Item"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/search.php:34
+msgid "Items"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Job Title"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/theme_functions.php:313
+msgid "Last"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Logged in as <a href=\"%1$s\">%2$s</a> <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Map Address"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Menu to show as sidebar"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Name *"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Post Social Details"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "Project Date"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/class-tgm-plugin-activation.php:1
+msgid "Something went wrong."
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-none.php:
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "The Gallery"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "The Job Title"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "The Post Sidebar"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "The Video Link"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/loop/content-metaportfolio.php:7
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 1"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 2"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 3"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 4"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 5"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for Social Icon 6"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/metaboxes.php:1
+msgid "URL for this client (optional)"
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/404.php:19
+msgid "Uh, Oh."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/comments.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/search.php:21
+msgid "Your Search For:"
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/ebor_framework/theme_functions.php:307
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/search.php:21
+msgid "returned:"
+msgstr ""
+
+#. Text in echo
+#: TommusRhodus-slowave-wordpress-theme-55546ea5133b/searchform.php:11
+msgid "type and hit enter"
+msgstr ""

@@ -1,0 +1,33 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">dslc_projects</custom-type>
+        <custom-type translate="1">dslc_galleries</custom-type>
+        <custom-type translate="1">dslc_staff</custom-type>
+        <custom-type translate="1">dslc_downloads</custom-type>
+        <custom-type translate="1">dslc_testimonials</custom-type>
+        <custom-type translate="1">dslc_partners</custom-type>
+        <custom-type translate="1">mega_menu</custom-type>
+    </custom-types>    
+    <taxonomies>
+        <taxonomy translate="1">dslc_projects_cats</taxonomy>
+        <taxonomy translate="1">dslc_galleries_cats</taxonomy>
+        <taxonomy translate="1">dslc_staff_cats</taxonomy>
+        <taxonomy translate="1">dslc_downloads_cats</taxonomy>
+        <taxonomy translate="1">dslc_downloads_tags</taxonomy>
+        <taxonomy translate="1">dslc_testimonials_cats</taxonomy>
+        <taxonomy translate="1">dslc_partners_cats</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="custom_logo_alt_text" />
+        <key name="blog_title" />
+        <key name="comments_title" />
+        <key name="comments_subtitle" />
+        <key name="copyright" />
+        <key name="author_title" />
+        <key name="continue_reading" />
+        <key name="portfolio_sharing_title" />
+        <key name="portfolio_related_title" />
+    </admin-texts>      
+</wpml-config>
+
+

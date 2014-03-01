@@ -1,0 +1,3633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Composer\n"
+"POT-Creation-Date: 2014-02-20 17:27+0100\n"
+"PO-Revision-Date: 2014-02-20 17:27+0100\n"
+"Last-Translator: \n"
+"Language-Team: DanyDuchaine\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;__;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/ajax.php:58 ../includes/ajax.php:146
+#: ../includes/display-functions.php:1032
+msgid "Drop modules here"
+msgstr ""
+
+#: ../includes/ajax.php:509
+msgid "Upload Image"
+msgstr ""
+
+#: ../includes/ajax.php:510
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/display-functions.php:41
+msgid "FUNCTIONALITY"
+msgstr ""
+
+#: ../includes/display-functions.php:42
+msgid "STYLING"
+msgstr ""
+
+#: ../includes/display-functions.php:43
+msgid "RESPONSIVE"
+msgstr ""
+
+#: ../includes/display-functions.php:46
+msgid "CONFIRM"
+msgstr ""
+
+#: ../includes/display-functions.php:47 ../includes/display-functions.php:324
+#: ../includes/display-functions.php:351
+msgid "CANCEL"
+msgstr ""
+
+#: ../includes/display-functions.php:56
+msgid "PUBLISH CHANGES"
+msgstr ""
+
+#: ../includes/display-functions.php:61
+msgid "SHOW EDITOR"
+msgstr ""
+
+#: ../includes/display-functions.php:62
+msgid "HIDE EDITOR"
+msgstr ""
+
+#: ../includes/display-functions.php:65
+msgid "DISABLE EDITOR"
+msgstr ""
+
+#: ../includes/display-functions.php:311
+msgid "TEMPLATES"
+msgstr ""
+
+#: ../includes/display-functions.php:314
+msgid "Load"
+msgstr ""
+
+#: ../includes/display-functions.php:315
+msgid "Save"
+msgstr ""
+
+#: ../includes/display-functions.php:316
+msgid "Import"
+msgstr ""
+
+#: ../includes/display-functions.php:317
+msgid "Export"
+msgstr ""
+
+#: ../includes/display-functions.php:323
+msgid "SAVE"
+msgstr ""
+
+#: ../includes/display-functions.php:333
+msgid "CLOSE"
+msgstr ""
+
+#: ../includes/display-functions.php:343
+msgid "IMPORT"
+msgstr ""
+
+#: ../includes/display-functions.php:366
+msgid "ORIGINAL TEMPLATES"
+msgstr ""
+
+#: ../includes/display-functions.php:417
+msgid "Confirm"
+msgstr ""
+
+#: ../includes/display-functions.php:418
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/display-functions.php:427
+msgid ""
+"Icons used in this plugin are from \"Font Awesome\".<br><a href=\"http://"
+"livecomposerplugin.com/icons-listing/\" class=\"dslca-link\" target=\"_blank"
+"\">View full list of icons.</a>"
+msgstr ""
+
+#: ../includes/display-functions.php:442
+msgid "ACTIVATE EDITOR"
+msgstr ""
+
+#: ../includes/display-functions.php:451
+msgid "EDIT TEMPLATE"
+msgstr ""
+
+#: ../includes/display-functions.php:455
+msgid "CREATE TEMPLATE"
+msgstr ""
+
+#: ../includes/display-functions.php:498
+msgid "MODULES AREA"
+msgstr ""
+
+#: ../includes/display-functions.php:704
+msgid "Add Modules Row"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:8
+msgid "General Options"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:11
+msgid "Max Width"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:14
+msgid ""
+"The width of the modules section when row is set to wrapped. If not set the "
+"$content_width variable from theme will be used."
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:17
+msgid "Force !important CSS"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:20
+msgid ""
+"In case the CSS from the theme is influencing CSS for the modules, enabling "
+"this will in most cases fix that."
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:23
+#: ../modules/accordion/module.php:541 ../modules/accordion/module.php:720
+#: ../modules/blog/module.php:1310 ../modules/blog/module.php:1599
+#: ../modules/button/module.php:323 ../modules/button/module.php:406
+#: ../modules/downloads/module.php:1160 ../modules/downloads/module.php:1425
+#: ../modules/galleries/module.php:1081 ../modules/galleries/module.php:1321
+#: ../modules/html/module.php:33 ../modules/html/module.php:806
+#: ../modules/html/module.php:1071 ../modules/image/module.php:71
+#: ../modules/image/module.php:331 ../modules/image/module.php:426
+#: ../modules/infobox/module.php:928 ../modules/infobox/module.php:1199
+#: ../modules/notification/module.php:386
+#: ../modules/notification/module.php:493 ../modules/partners/module.php:744
+#: ../modules/partners/module.php:889 ../modules/posts/module.php:1310
+#: ../modules/posts/module.php:1599 ../modules/progress-bars/module.php:437
+#: ../modules/progress-bars/module.php:592 ../modules/projects/module.php:1095
+#: ../modules/projects/module.php:1360 ../modules/separator/module.php:77
+#: ../modules/separator/module.php:114 ../modules/social/module.php:289
+#: ../modules/social/module.php:360 ../modules/staff/module.php:1078
+#: ../modules/staff/module.php:1331 ../modules/tabs/module.php:489
+#: ../modules/tabs/module.php:634 ../modules/testimonials/module.php:918
+#: ../modules/testimonials/module.php:1187
+#: ../modules/text-simple/module.php:33 ../modules/text-simple/module.php:1361
+#: ../modules/text-simple/module.php:1626
+#: ../modules/tp-comments-form/module.php:578
+#: ../modules/tp-comments-form/module.php:769
+#: ../modules/tp-comments/module.php:834
+#: ../modules/tp-comments/module.php:1097 ../modules/tp-content/module.php:25
+#: ../modules/tp-content/module.php:738 ../modules/tp-content/module.php:941
+#: ../modules/tp-downloads-button/module.php:251
+#: ../modules/tp-downloads-button/module.php:322
+#: ../modules/tp-gallery-slider/module.php:61
+#: ../modules/tp-gallery-slider/module.php:500
+#: ../modules/tp-gallery-slider/module.php:643
+#: ../modules/tp-meta/module.php:289 ../modules/tp-meta/module.php:348
+#: ../modules/tp-thumbnail/module.php:126
+#: ../modules/tp-thumbnail/module.php:174
+#: ../modules/tp-thumbnail/module.php:221 ../modules/tp-title/module.php:235
+#: ../modules/tp-title/module.php:318 ../modules/widgets/module.php:519
+#: ../modules/widgets/module.php:675 ../modules/woocommerce/module.php:1280
+#: ../modules/woocommerce/module.php:1557
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:27
+#: ../modules/accordion/module.php:537 ../modules/accordion/module.php:716
+#: ../modules/blog/module.php:75 ../modules/blog/module.php:1306
+#: ../modules/blog/module.php:1595 ../modules/button/module.php:319
+#: ../modules/button/module.php:402 ../modules/downloads/module.php:59
+#: ../modules/downloads/module.php:1156 ../modules/downloads/module.php:1421
+#: ../modules/galleries/module.php:59 ../modules/galleries/module.php:1077
+#: ../modules/galleries/module.php:1317 ../modules/html/module.php:37
+#: ../modules/html/module.php:802 ../modules/html/module.php:1067
+#: ../modules/image/module.php:75 ../modules/image/module.php:327
+#: ../modules/image/module.php:422 ../modules/infobox/module.php:924
+#: ../modules/infobox/module.php:1195 ../modules/notification/module.php:382
+#: ../modules/notification/module.php:489 ../modules/partners/module.php:59
+#: ../modules/partners/module.php:740 ../modules/partners/module.php:885
+#: ../modules/posts/module.php:82 ../modules/posts/module.php:1306
+#: ../modules/posts/module.php:1595 ../modules/progress-bars/module.php:45
+#: ../modules/progress-bars/module.php:433
+#: ../modules/progress-bars/module.php:588 ../modules/projects/module.php:59
+#: ../modules/projects/module.php:1091 ../modules/projects/module.php:1356
+#: ../modules/separator/module.php:73 ../modules/separator/module.php:110
+#: ../modules/social/module.php:285 ../modules/social/module.php:356
+#: ../modules/staff/module.php:59 ../modules/staff/module.php:1074
+#: ../modules/staff/module.php:1327 ../modules/tabs/module.php:485
+#: ../modules/tabs/module.php:630 ../modules/testimonials/module.php:59
+#: ../modules/testimonials/module.php:914
+#: ../modules/testimonials/module.php:1183
+#: ../modules/text-simple/module.php:37 ../modules/text-simple/module.php:1357
+#: ../modules/text-simple/module.php:1622
+#: ../modules/tp-comments-form/module.php:574
+#: ../modules/tp-comments-form/module.php:765
+#: ../modules/tp-comments/module.php:830
+#: ../modules/tp-comments/module.php:1093 ../modules/tp-content/module.php:29
+#: ../modules/tp-content/module.php:734 ../modules/tp-content/module.php:937
+#: ../modules/tp-downloads-button/module.php:247
+#: ../modules/tp-downloads-button/module.php:318
+#: ../modules/tp-gallery-slider/module.php:65
+#: ../modules/tp-gallery-slider/module.php:496
+#: ../modules/tp-gallery-slider/module.php:639
+#: ../modules/tp-meta/module.php:285 ../modules/tp-meta/module.php:344
+#: ../modules/tp-thumbnail/module.php:130
+#: ../modules/tp-thumbnail/module.php:170
+#: ../modules/tp-thumbnail/module.php:217 ../modules/tp-title/module.php:231
+#: ../modules/tp-title/module.php:314 ../modules/widgets/module.php:515
+#: ../modules/widgets/module.php:671 ../modules/woocommerce/module.php:58
+#: ../modules/woocommerce/module.php:1276
+#: ../modules/woocommerce/module.php:1553
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:40
+msgid "Sidebars"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:53
+msgid "<strong>Project</strong> Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:58
+msgid "<strong>Projects</strong> Category Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:64
+msgid "<strong>Gallery</strong> Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:69
+msgid "<strong>Galleries</strong> Category Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:75
+msgid "<strong>Download</strong> Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:80
+msgid "<strong>Downloads</strong> Categories Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:85
+msgid "<strong>Downloads</strong> Tags Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:91
+msgid "<strong>Staff</strong> Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:96
+msgid "<strong>Staff</strong> Categories Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:102
+msgid "<strong>Partner</strong> Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:107
+msgid "<strong>Partners</strong> Categories Slug"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:136
+msgid "&#x2714; Enabled"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:140
+msgid "&#x2716; Disabled"
+msgstr ""
+
+#: ../includes/plugin-options-framework/inc/options.php:149
+msgid "Features Control"
+msgstr ""
+
+#: ../includes/post-options-framework/post-options-framework.php:28
+msgid "Default"
+msgstr ""
+
+#: ../includes/post-options-framework/post-options-framework.php:48
+msgid "LC Template"
+msgstr ""
+
+#: ../includes/post-options-framework/post-options-framework.php:53
+#: ../includes/single-templates-framework/inc/functions.php:13
+msgid "Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:12
+msgid "Templates"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:14
+#: ../includes/single-templates-framework/inc/functions.php:15
+msgid "Add Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:16
+#: ../modules/downloads/functions.php:18 ../modules/galleries/functions.php:27
+#: ../modules/partners/functions.php:12 ../modules/projects/functions.php:12
+#: ../modules/testimonials/functions.php:27
+msgid "Edit"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:17
+msgid "Edit Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:18
+msgid "New Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:19
+msgid "View Templates"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:20
+msgid "View Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:21
+msgid "Search Templates"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:22
+msgid "No Templates found"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:23
+msgid "No Templates found in Trash"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:24
+msgid "Parent Template"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:47
+#: ../modules/posts/module.php:27
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:48
+msgid "Which post type is this template for?"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:55
+msgid "Base"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:56
+msgid ""
+"If set to <strong>theme template</strong> the template will be appeneded to "
+"the regular single post template ( ex. If the theme shows thumbnail and "
+"title in it's template they will still be there ). If set to <strong>plugin "
+"template</strong> everything will be stripped and only the content from this "
+"template shown."
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:72
+#: ../modules/blog/module.php:27 ../modules/downloads/module.php:27
+#: ../modules/galleries/module.php:27 ../modules/partners/module.php:27
+#: ../modules/posts/module.php:34 ../modules/projects/module.php:27
+#: ../modules/staff/module.php:27 ../modules/testimonials/module.php:27
+#: ../modules/woocommerce/module.php:26
+msgid "Type"
+msgstr ""
+
+#: ../includes/single-templates-framework/inc/functions.php:74
+msgid ""
+"<strong>Default</strong> template will be used as the default for all the "
+"posts. <strong>Regular</strong> template is an additional template that you "
+"can set to specific posts."
+msgstr ""
+
+#: ../modules/accordion/module.php:15
+msgid "(hidden) Accordion Content"
+msgstr ""
+
+#: ../modules/accordion/module.php:23
+msgid "(hidden) Accordion Nav"
+msgstr ""
+
+#: ../modules/accordion/module.php:36 ../modules/accordion/module.php:133
+#: ../modules/accordion/module.php:237 ../modules/accordion/module.php:378
+#: ../modules/blog/module.php:222 ../modules/blog/module.php:400
+#: ../modules/blog/module.php:1072 ../modules/button/module.php:73
+#: ../modules/downloads/module.php:282 ../modules/downloads/module.php:879
+#: ../modules/galleries/module.php:314 ../modules/galleries/module.php:459
+#: ../modules/galleries/module.php:725 ../modules/image/module.php:110
+#: ../modules/infobox/module.php:75 ../modules/infobox/module.php:302
+#: ../modules/infobox/module.php:630 ../modules/notification/module.php:20
+#: ../modules/notification/module.php:199 ../modules/posts/module.php:222
+#: ../modules/posts/module.php:400 ../modules/posts/module.php:1072
+#: ../modules/progress-bars/module.php:61
+#: ../modules/progress-bars/module.php:288 ../modules/projects/module.php:278
+#: ../modules/projects/module.php:897 ../modules/staff/module.php:299
+#: ../modules/staff/module.php:469 ../modules/tabs/module.php:226
+#: ../modules/testimonials/module.php:658
+#: ../modules/tp-comments-form/module.php:19
+#: ../modules/tp-comments-form/module.php:205
+#: ../modules/tp-comments-form/module.php:382
+#: ../modules/tp-comments/module.php:17 ../modules/tp-comments/module.php:125
+#: ../modules/tp-comments/module.php:241 ../modules/tp-comments/module.php:369
+#: ../modules/tp-comments/module.php:659
+#: ../modules/tp-downloads-button/module.php:23
+#: ../modules/tp-title/module.php:15 ../modules/widgets/module.php:61
+#: ../modules/widgets/module.php:180 ../modules/woocommerce/module.php:293
+#: ../modules/woocommerce/module.php:438 ../modules/woocommerce/module.php:635
+msgid "BG Color"
+msgstr ""
+
+#: ../modules/accordion/module.php:46 ../modules/accordion/module.php:144
+#: ../modules/accordion/module.php:248 ../modules/accordion/module.php:389
+#: ../modules/blog/module.php:232 ../modules/blog/module.php:411
+#: ../modules/blog/module.php:582 ../modules/blog/module.php:813
+#: ../modules/blog/module.php:1135 ../modules/button/module.php:93
+#: ../modules/downloads/module.php:293 ../modules/downloads/module.php:438
+#: ../modules/downloads/module.php:671 ../modules/downloads/module.php:901
+#: ../modules/galleries/module.php:325 ../modules/galleries/module.php:470
+#: ../modules/galleries/module.php:736 ../modules/html/module.php:54
+#: ../modules/image/module.php:120 ../modules/infobox/module.php:191
+#: ../modules/infobox/module.php:313 ../modules/infobox/module.php:693
+#: ../modules/notification/module.php:30
+#: ../modules/notification/module.php:221 ../modules/partners/module.php:281
+#: ../modules/partners/module.php:428 ../modules/posts/module.php:232
+#: ../modules/posts/module.php:411 ../modules/posts/module.php:582
+#: ../modules/posts/module.php:813 ../modules/posts/module.php:1135
+#: ../modules/progress-bars/module.php:71
+#: ../modules/progress-bars/module.php:299 ../modules/projects/module.php:289
+#: ../modules/projects/module.php:434 ../modules/projects/module.php:931
+#: ../modules/social/module.php:114 ../modules/staff/module.php:310
+#: ../modules/staff/module.php:480 ../modules/staff/module.php:631
+#: ../modules/staff/module.php:864 ../modules/tabs/module.php:46
+#: ../modules/tabs/module.php:237 ../modules/tabs/module.php:314
+#: ../modules/testimonials/module.php:285
+#: ../modules/testimonials/module.php:390
+#: ../modules/testimonials/module.php:669 ../modules/text-simple/module.php:54
+#: ../modules/text-simple/module.php:265 ../modules/text-simple/module.php:479
+#: ../modules/text-simple/module.php:693 ../modules/text-simple/module.php:907
+#: ../modules/text-simple/module.php:1121
+#: ../modules/tp-comments-form/module.php:29
+#: ../modules/tp-comments-form/module.php:216
+#: ../modules/tp-comments-form/module.php:445
+#: ../modules/tp-comments/module.php:27 ../modules/tp-comments/module.php:136
+#: ../modules/tp-comments/module.php:252 ../modules/tp-comments/module.php:380
+#: ../modules/tp-comments/module.php:670 ../modules/tp-content/module.php:46
+#: ../modules/tp-downloads-button/module.php:43
+#: ../modules/tp-gallery-slider/module.php:86
+#: ../modules/tp-gallery-slider/module.php:206
+#: ../modules/tp-gallery-slider/module.php:322
+#: ../modules/tp-meta/module.php:83 ../modules/tp-thumbnail/module.php:49
+#: ../modules/tp-title/module.php:25 ../modules/widgets/module.php:71
+#: ../modules/widgets/module.php:191 ../modules/widgets/module.php:308
+#: ../modules/woocommerce/module.php:304 ../modules/woocommerce/module.php:449
+#: ../modules/woocommerce/module.php:646
+msgid "Border Color"
+msgstr ""
+
+#: ../modules/accordion/module.php:56 ../modules/accordion/module.php:155
+#: ../modules/accordion/module.php:259 ../modules/accordion/module.php:400
+#: ../modules/blog/module.php:242 ../modules/blog/module.php:422
+#: ../modules/blog/module.php:593 ../modules/blog/module.php:824
+#: ../modules/blog/module.php:1094 ../modules/button/module.php:113
+#: ../modules/downloads/module.php:304 ../modules/downloads/module.php:449
+#: ../modules/downloads/module.php:923 ../modules/galleries/module.php:336
+#: ../modules/galleries/module.php:481 ../modules/galleries/module.php:747
+#: ../modules/html/module.php:64 ../modules/image/module.php:130
+#: ../modules/infobox/module.php:201 ../modules/infobox/module.php:324
+#: ../modules/infobox/module.php:652 ../modules/notification/module.php:40
+#: ../modules/notification/module.php:243 ../modules/partners/module.php:292
+#: ../modules/partners/module.php:439 ../modules/posts/module.php:242
+#: ../modules/posts/module.php:422 ../modules/posts/module.php:593
+#: ../modules/posts/module.php:824 ../modules/posts/module.php:1094
+#: ../modules/progress-bars/module.php:81
+#: ../modules/progress-bars/module.php:310 ../modules/projects/module.php:300
+#: ../modules/projects/module.php:445 ../modules/projects/module.php:919
+#: ../modules/social/module.php:134 ../modules/staff/module.php:321
+#: ../modules/staff/module.php:491 ../modules/staff/module.php:642
+#: ../modules/staff/module.php:875 ../modules/tabs/module.php:57
+#: ../modules/tabs/module.php:324 ../modules/testimonials/module.php:296
+#: ../modules/testimonials/module.php:401
+#: ../modules/testimonials/module.php:680 ../modules/text-simple/module.php:64
+#: ../modules/text-simple/module.php:276 ../modules/text-simple/module.php:490
+#: ../modules/text-simple/module.php:704 ../modules/text-simple/module.php:918
+#: ../modules/text-simple/module.php:1132
+#: ../modules/tp-comments-form/module.php:39
+#: ../modules/tp-comments-form/module.php:227
+#: ../modules/tp-comments-form/module.php:404
+#: ../modules/tp-comments/module.php:37 ../modules/tp-comments/module.php:147
+#: ../modules/tp-comments/module.php:263 ../modules/tp-comments/module.php:391
+#: ../modules/tp-comments/module.php:681 ../modules/tp-content/module.php:56
+#: ../modules/tp-downloads-button/module.php:63
+#: ../modules/tp-gallery-slider/module.php:96
+#: ../modules/tp-gallery-slider/module.php:217
+#: ../modules/tp-gallery-slider/module.php:333
+#: ../modules/tp-meta/module.php:93 ../modules/tp-thumbnail/module.php:59
+#: ../modules/tp-title/module.php:35 ../modules/widgets/module.php:81
+#: ../modules/widgets/module.php:202 ../modules/widgets/module.php:319
+#: ../modules/woocommerce/module.php:315 ../modules/woocommerce/module.php:460
+#: ../modules/woocommerce/module.php:657
+msgid "Border Width"
+msgstr ""
+
+#: ../modules/accordion/module.php:67 ../modules/accordion/module.php:167
+#: ../modules/accordion/module.php:271 ../modules/accordion/module.php:412
+#: ../modules/blog/module.php:253 ../modules/blog/module.php:434
+#: ../modules/blog/module.php:605 ../modules/blog/module.php:836
+#: ../modules/blog/module.php:1106 ../modules/button/module.php:124
+#: ../modules/downloads/module.php:316 ../modules/downloads/module.php:461
+#: ../modules/downloads/module.php:935 ../modules/galleries/module.php:348
+#: ../modules/galleries/module.php:493 ../modules/galleries/module.php:759
+#: ../modules/html/module.php:75 ../modules/image/module.php:141
+#: ../modules/infobox/module.php:212 ../modules/infobox/module.php:336
+#: ../modules/infobox/module.php:664 ../modules/notification/module.php:51
+#: ../modules/notification/module.php:255 ../modules/partners/module.php:304
+#: ../modules/partners/module.php:451 ../modules/posts/module.php:253
+#: ../modules/posts/module.php:434 ../modules/posts/module.php:605
+#: ../modules/posts/module.php:836 ../modules/posts/module.php:1106
+#: ../modules/progress-bars/module.php:92
+#: ../modules/progress-bars/module.php:322 ../modules/projects/module.php:312
+#: ../modules/projects/module.php:457 ../modules/social/module.php:145
+#: ../modules/staff/module.php:333 ../modules/staff/module.php:503
+#: ../modules/staff/module.php:654 ../modules/staff/module.php:887
+#: ../modules/tabs/module.php:69 ../modules/tabs/module.php:259
+#: ../modules/tabs/module.php:335 ../modules/testimonials/module.php:308
+#: ../modules/testimonials/module.php:413
+#: ../modules/testimonials/module.php:692 ../modules/text-simple/module.php:75
+#: ../modules/text-simple/module.php:288 ../modules/text-simple/module.php:502
+#: ../modules/text-simple/module.php:716 ../modules/text-simple/module.php:930
+#: ../modules/text-simple/module.php:1144
+#: ../modules/tp-comments-form/module.php:50
+#: ../modules/tp-comments-form/module.php:239
+#: ../modules/tp-comments-form/module.php:416
+#: ../modules/tp-comments/module.php:48 ../modules/tp-comments/module.php:159
+#: ../modules/tp-comments/module.php:275 ../modules/tp-comments/module.php:403
+#: ../modules/tp-comments/module.php:693 ../modules/tp-content/module.php:67
+#: ../modules/tp-downloads-button/module.php:74
+#: ../modules/tp-gallery-slider/module.php:107
+#: ../modules/tp-gallery-slider/module.php:229
+#: ../modules/tp-gallery-slider/module.php:345
+#: ../modules/tp-meta/module.php:104 ../modules/tp-thumbnail/module.php:70
+#: ../modules/tp-title/module.php:46 ../modules/widgets/module.php:92
+#: ../modules/widgets/module.php:214 ../modules/woocommerce/module.php:327
+#: ../modules/woocommerce/module.php:472 ../modules/woocommerce/module.php:669
+msgid "Borders"
+msgstr ""
+
+#: ../modules/accordion/module.php:73 ../modules/accordion/module.php:173
+#: ../modules/accordion/module.php:277 ../modules/accordion/module.php:418
+#: ../modules/blog/module.php:259 ../modules/blog/module.php:440
+#: ../modules/blog/module.php:611 ../modules/blog/module.php:842
+#: ../modules/blog/module.php:1112 ../modules/button/module.php:130
+#: ../modules/downloads/module.php:322 ../modules/downloads/module.php:467
+#: ../modules/downloads/module.php:941 ../modules/galleries/module.php:354
+#: ../modules/galleries/module.php:499 ../modules/galleries/module.php:765
+#: ../modules/html/module.php:81 ../modules/image/module.php:147
+#: ../modules/infobox/module.php:218 ../modules/infobox/module.php:342
+#: ../modules/infobox/module.php:670 ../modules/notification/module.php:57
+#: ../modules/notification/module.php:261 ../modules/partners/module.php:310
+#: ../modules/partners/module.php:457 ../modules/posts/module.php:259
+#: ../modules/posts/module.php:440 ../modules/posts/module.php:611
+#: ../modules/posts/module.php:842 ../modules/posts/module.php:1112
+#: ../modules/progress-bars/module.php:98
+#: ../modules/progress-bars/module.php:328 ../modules/projects/module.php:318
+#: ../modules/projects/module.php:463 ../modules/social/module.php:151
+#: ../modules/staff/module.php:339 ../modules/staff/module.php:509
+#: ../modules/staff/module.php:660 ../modules/staff/module.php:893
+#: ../modules/tabs/module.php:75 ../modules/tabs/module.php:265
+#: ../modules/tabs/module.php:341 ../modules/testimonials/module.php:314
+#: ../modules/testimonials/module.php:419
+#: ../modules/testimonials/module.php:698 ../modules/text-simple/module.php:81
+#: ../modules/text-simple/module.php:294 ../modules/text-simple/module.php:508
+#: ../modules/text-simple/module.php:722 ../modules/text-simple/module.php:936
+#: ../modules/text-simple/module.php:1150
+#: ../modules/tp-comments-form/module.php:56
+#: ../modules/tp-comments-form/module.php:245
+#: ../modules/tp-comments-form/module.php:422
+#: ../modules/tp-comments/module.php:54 ../modules/tp-comments/module.php:165
+#: ../modules/tp-comments/module.php:281 ../modules/tp-comments/module.php:409
+#: ../modules/tp-comments/module.php:699 ../modules/tp-content/module.php:73
+#: ../modules/tp-downloads-button/module.php:80
+#: ../modules/tp-gallery-slider/module.php:113
+#: ../modules/tp-gallery-slider/module.php:235
+#: ../modules/tp-gallery-slider/module.php:351
+#: ../modules/tp-meta/module.php:110 ../modules/tp-thumbnail/module.php:76
+#: ../modules/tp-title/module.php:52 ../modules/widgets/module.php:98
+#: ../modules/widgets/module.php:220 ../modules/woocommerce/module.php:333
+#: ../modules/woocommerce/module.php:478 ../modules/woocommerce/module.php:675
+msgid "Top"
+msgstr ""
+
+#: ../modules/accordion/module.php:77 ../modules/accordion/module.php:177
+#: ../modules/accordion/module.php:281 ../modules/accordion/module.php:422
+#: ../modules/blog/module.php:263 ../modules/blog/module.php:444
+#: ../modules/blog/module.php:615 ../modules/blog/module.php:715
+#: ../modules/blog/module.php:846 ../modules/blog/module.php:1116
+#: ../modules/button/module.php:67 ../modules/button/module.php:134
+#: ../modules/downloads/module.php:326 ../modules/downloads/module.php:471
+#: ../modules/downloads/module.php:571 ../modules/downloads/module.php:945
+#: ../modules/galleries/module.php:358 ../modules/galleries/module.php:503
+#: ../modules/galleries/module.php:769 ../modules/galleries/module.php:869
+#: ../modules/html/module.php:85 ../modules/html/module.php:243
+#: ../modules/html/module.php:346 ../modules/html/module.php:449
+#: ../modules/html/module.php:552 ../modules/html/module.php:655
+#: ../modules/html/module.php:758 ../modules/image/module.php:104
+#: ../modules/image/module.php:151 ../modules/image/module.php:237
+#: ../modules/infobox/module.php:65 ../modules/infobox/module.php:222
+#: ../modules/infobox/module.php:346 ../modules/infobox/module.php:674
+#: ../modules/notification/module.php:61
+#: ../modules/notification/module.php:265 ../modules/partners/module.php:314
+#: ../modules/partners/module.php:461 ../modules/partners/module.php:561
+#: ../modules/posts/module.php:263 ../modules/posts/module.php:444
+#: ../modules/posts/module.php:615 ../modules/posts/module.php:715
+#: ../modules/posts/module.php:846 ../modules/posts/module.php:1116
+#: ../modules/progress-bars/module.php:102
+#: ../modules/progress-bars/module.php:332 ../modules/projects/module.php:322
+#: ../modules/projects/module.php:467 ../modules/projects/module.php:567
+#: ../modules/social/module.php:155 ../modules/staff/module.php:343
+#: ../modules/staff/module.php:463 ../modules/staff/module.php:513
+#: ../modules/staff/module.php:664 ../modules/staff/module.php:764
+#: ../modules/staff/module.php:897 ../modules/tabs/module.php:79
+#: ../modules/tabs/module.php:269 ../modules/tabs/module.php:345
+#: ../modules/testimonials/module.php:318
+#: ../modules/testimonials/module.php:423
+#: ../modules/testimonials/module.php:558
+#: ../modules/testimonials/module.php:597
+#: ../modules/testimonials/module.php:702 ../modules/text-simple/module.php:85
+#: ../modules/text-simple/module.php:243 ../modules/text-simple/module.php:298
+#: ../modules/text-simple/module.php:457 ../modules/text-simple/module.php:512
+#: ../modules/text-simple/module.php:671 ../modules/text-simple/module.php:726
+#: ../modules/text-simple/module.php:885 ../modules/text-simple/module.php:940
+#: ../modules/text-simple/module.php:1099
+#: ../modules/text-simple/module.php:1154
+#: ../modules/text-simple/module.php:1313
+#: ../modules/tp-comments-form/module.php:60
+#: ../modules/tp-comments-form/module.php:249
+#: ../modules/tp-comments-form/module.php:426
+#: ../modules/tp-comments/module.php:58 ../modules/tp-comments/module.php:169
+#: ../modules/tp-comments/module.php:285 ../modules/tp-comments/module.php:413
+#: ../modules/tp-comments/module.php:703 ../modules/tp-content/module.php:77
+#: ../modules/tp-content/module.php:235 ../modules/tp-content/module.php:326
+#: ../modules/tp-content/module.php:417 ../modules/tp-content/module.php:508
+#: ../modules/tp-content/module.php:599 ../modules/tp-content/module.php:690
+#: ../modules/tp-downloads-button/module.php:84
+#: ../modules/tp-gallery-slider/module.php:117
+#: ../modules/tp-gallery-slider/module.php:239
+#: ../modules/tp-gallery-slider/module.php:355
+#: ../modules/tp-meta/module.php:114 ../modules/tp-thumbnail/module.php:29
+#: ../modules/tp-thumbnail/module.php:80 ../modules/tp-title/module.php:56
+#: ../modules/tp-title/module.php:214 ../modules/widgets/module.php:102
+#: ../modules/widgets/module.php:224 ../modules/woocommerce/module.php:337
+#: ../modules/woocommerce/module.php:482 ../modules/woocommerce/module.php:679
+#: ../modules/woocommerce/module.php:784
+#: ../modules/woocommerce/module.php:1026
+#: ../modules/woocommerce/module.php:1112
+msgid "Right"
+msgstr ""
+
+#: ../modules/accordion/module.php:81 ../modules/accordion/module.php:181
+#: ../modules/accordion/module.php:285 ../modules/accordion/module.php:426
+#: ../modules/blog/module.php:267 ../modules/blog/module.php:448
+#: ../modules/blog/module.php:619 ../modules/blog/module.php:850
+#: ../modules/blog/module.php:1120 ../modules/button/module.php:138
+#: ../modules/downloads/module.php:330 ../modules/downloads/module.php:475
+#: ../modules/downloads/module.php:949 ../modules/galleries/module.php:362
+#: ../modules/galleries/module.php:507 ../modules/galleries/module.php:773
+#: ../modules/html/module.php:89 ../modules/image/module.php:155
+#: ../modules/infobox/module.php:226 ../modules/infobox/module.php:350
+#: ../modules/infobox/module.php:678 ../modules/notification/module.php:65
+#: ../modules/notification/module.php:269 ../modules/partners/module.php:318
+#: ../modules/partners/module.php:465 ../modules/posts/module.php:267
+#: ../modules/posts/module.php:448 ../modules/posts/module.php:619
+#: ../modules/posts/module.php:850 ../modules/posts/module.php:1120
+#: ../modules/progress-bars/module.php:106
+#: ../modules/progress-bars/module.php:336 ../modules/projects/module.php:326
+#: ../modules/projects/module.php:471 ../modules/social/module.php:159
+#: ../modules/staff/module.php:347 ../modules/staff/module.php:517
+#: ../modules/staff/module.php:668 ../modules/staff/module.php:901
+#: ../modules/tabs/module.php:83 ../modules/tabs/module.php:273
+#: ../modules/tabs/module.php:349 ../modules/testimonials/module.php:322
+#: ../modules/testimonials/module.php:427
+#: ../modules/testimonials/module.php:706 ../modules/text-simple/module.php:89
+#: ../modules/text-simple/module.php:302 ../modules/text-simple/module.php:516
+#: ../modules/text-simple/module.php:730 ../modules/text-simple/module.php:944
+#: ../modules/text-simple/module.php:1158
+#: ../modules/tp-comments-form/module.php:64
+#: ../modules/tp-comments-form/module.php:253
+#: ../modules/tp-comments-form/module.php:430
+#: ../modules/tp-comments/module.php:62 ../modules/tp-comments/module.php:173
+#: ../modules/tp-comments/module.php:289 ../modules/tp-comments/module.php:417
+#: ../modules/tp-comments/module.php:707 ../modules/tp-content/module.php:81
+#: ../modules/tp-downloads-button/module.php:88
+#: ../modules/tp-gallery-slider/module.php:121
+#: ../modules/tp-gallery-slider/module.php:243
+#: ../modules/tp-gallery-slider/module.php:359
+#: ../modules/tp-meta/module.php:118 ../modules/tp-thumbnail/module.php:84
+#: ../modules/tp-title/module.php:60 ../modules/widgets/module.php:106
+#: ../modules/widgets/module.php:228 ../modules/woocommerce/module.php:341
+#: ../modules/woocommerce/module.php:486 ../modules/woocommerce/module.php:683
+msgid "Bottom"
+msgstr ""
+
+#: ../modules/accordion/module.php:85 ../modules/accordion/module.php:185
+#: ../modules/accordion/module.php:289 ../modules/accordion/module.php:430
+#: ../modules/blog/module.php:271 ../modules/blog/module.php:452
+#: ../modules/blog/module.php:623 ../modules/blog/module.php:707
+#: ../modules/blog/module.php:854 ../modules/blog/module.php:1124
+#: ../modules/button/module.php:59 ../modules/button/module.php:142
+#: ../modules/downloads/module.php:334 ../modules/downloads/module.php:479
+#: ../modules/downloads/module.php:563 ../modules/downloads/module.php:953
+#: ../modules/galleries/module.php:366 ../modules/galleries/module.php:511
+#: ../modules/galleries/module.php:777 ../modules/galleries/module.php:861
+#: ../modules/html/module.php:93 ../modules/html/module.php:235
+#: ../modules/html/module.php:338 ../modules/html/module.php:441
+#: ../modules/html/module.php:544 ../modules/html/module.php:647
+#: ../modules/html/module.php:750 ../modules/image/module.php:96
+#: ../modules/image/module.php:159 ../modules/image/module.php:229
+#: ../modules/infobox/module.php:57 ../modules/infobox/module.php:230
+#: ../modules/infobox/module.php:354 ../modules/infobox/module.php:682
+#: ../modules/notification/module.php:69
+#: ../modules/notification/module.php:273 ../modules/partners/module.php:322
+#: ../modules/partners/module.php:469 ../modules/partners/module.php:553
+#: ../modules/posts/module.php:271 ../modules/posts/module.php:452
+#: ../modules/posts/module.php:623 ../modules/posts/module.php:707
+#: ../modules/posts/module.php:854 ../modules/posts/module.php:1124
+#: ../modules/progress-bars/module.php:110
+#: ../modules/progress-bars/module.php:340 ../modules/projects/module.php:330
+#: ../modules/projects/module.php:475 ../modules/projects/module.php:559
+#: ../modules/social/module.php:163 ../modules/staff/module.php:351
+#: ../modules/staff/module.php:455 ../modules/staff/module.php:521
+#: ../modules/staff/module.php:672 ../modules/staff/module.php:756
+#: ../modules/staff/module.php:905 ../modules/tabs/module.php:87
+#: ../modules/tabs/module.php:277 ../modules/tabs/module.php:353
+#: ../modules/testimonials/module.php:326
+#: ../modules/testimonials/module.php:431
+#: ../modules/testimonials/module.php:550
+#: ../modules/testimonials/module.php:593
+#: ../modules/testimonials/module.php:710 ../modules/text-simple/module.php:93
+#: ../modules/text-simple/module.php:235 ../modules/text-simple/module.php:306
+#: ../modules/text-simple/module.php:449 ../modules/text-simple/module.php:520
+#: ../modules/text-simple/module.php:663 ../modules/text-simple/module.php:734
+#: ../modules/text-simple/module.php:877 ../modules/text-simple/module.php:948
+#: ../modules/text-simple/module.php:1091
+#: ../modules/text-simple/module.php:1162
+#: ../modules/text-simple/module.php:1305
+#: ../modules/tp-comments-form/module.php:68
+#: ../modules/tp-comments-form/module.php:257
+#: ../modules/tp-comments-form/module.php:434
+#: ../modules/tp-comments/module.php:66 ../modules/tp-comments/module.php:177
+#: ../modules/tp-comments/module.php:293 ../modules/tp-comments/module.php:421
+#: ../modules/tp-comments/module.php:711 ../modules/tp-content/module.php:85
+#: ../modules/tp-content/module.php:227 ../modules/tp-content/module.php:318
+#: ../modules/tp-content/module.php:409 ../modules/tp-content/module.php:500
+#: ../modules/tp-content/module.php:591 ../modules/tp-content/module.php:682
+#: ../modules/tp-downloads-button/module.php:92
+#: ../modules/tp-gallery-slider/module.php:125
+#: ../modules/tp-gallery-slider/module.php:247
+#: ../modules/tp-gallery-slider/module.php:363
+#: ../modules/tp-meta/module.php:122 ../modules/tp-thumbnail/module.php:21
+#: ../modules/tp-thumbnail/module.php:88 ../modules/tp-title/module.php:64
+#: ../modules/tp-title/module.php:206 ../modules/widgets/module.php:110
+#: ../modules/widgets/module.php:232 ../modules/woocommerce/module.php:345
+#: ../modules/woocommerce/module.php:490 ../modules/woocommerce/module.php:687
+#: ../modules/woocommerce/module.php:776
+#: ../modules/woocommerce/module.php:1018
+#: ../modules/woocommerce/module.php:1108
+msgid "Left"
+msgstr ""
+
+#: ../modules/accordion/module.php:95 ../modules/accordion/module.php:196
+#: ../modules/accordion/module.php:549 ../modules/accordion/module.php:728
+#: ../modules/blog/module.php:303 ../modules/blog/module.php:487
+#: ../modules/blog/module.php:796 ../modules/blog/module.php:914
+#: ../modules/blog/module.php:1039 ../modules/blog/module.php:1318
+#: ../modules/blog/module.php:1607 ../modules/button/module.php:163
+#: ../modules/button/module.php:331 ../modules/button/module.php:414
+#: ../modules/downloads/module.php:207 ../modules/downloads/module.php:369
+#: ../modules/downloads/module.php:654 ../modules/downloads/module.php:846
+#: ../modules/downloads/module.php:1036 ../modules/downloads/module.php:1168
+#: ../modules/downloads/module.php:1433 ../modules/galleries/module.php:239
+#: ../modules/galleries/module.php:401 ../modules/galleries/module.php:952
+#: ../modules/galleries/module.php:980 ../modules/galleries/module.php:1089
+#: ../modules/galleries/module.php:1329 ../modules/html/module.php:125
+#: ../modules/html/module.php:315 ../modules/html/module.php:418
+#: ../modules/html/module.php:521 ../modules/html/module.php:624
+#: ../modules/html/module.php:727 ../modules/html/module.php:814
+#: ../modules/html/module.php:1079 ../modules/image/module.php:180
+#: ../modules/image/module.php:339 ../modules/image/module.php:434
+#: ../modules/infobox/module.php:251 ../modules/infobox/module.php:534
+#: ../modules/infobox/module.php:613 ../modules/infobox/module.php:936
+#: ../modules/infobox/module.php:1207 ../modules/notification/module.php:90
+#: ../modules/notification/module.php:394
+#: ../modules/notification/module.php:501 ../modules/partners/module.php:195
+#: ../modules/partners/module.php:357 ../modules/partners/module.php:644
+#: ../modules/posts/module.php:303 ../modules/posts/module.php:487
+#: ../modules/posts/module.php:796 ../modules/posts/module.php:914
+#: ../modules/posts/module.php:1039 ../modules/posts/module.php:1318
+#: ../modules/posts/module.php:1607 ../modules/progress-bars/module.php:142
+#: ../modules/progress-bars/module.php:229
+#: ../modules/progress-bars/module.php:374
+#: ../modules/progress-bars/module.php:445
+#: ../modules/progress-bars/module.php:600 ../modules/projects/module.php:203
+#: ../modules/projects/module.php:365 ../modules/projects/module.php:650
+#: ../modules/projects/module.php:728 ../modules/projects/module.php:853
+#: ../modules/projects/module.php:1103 ../modules/projects/module.php:1368
+#: ../modules/social/module.php:204 ../modules/social/module.php:297
+#: ../modules/social/module.php:368 ../modules/staff/module.php:220
+#: ../modules/staff/module.php:386 ../modules/staff/module.php:556
+#: ../modules/staff/module.php:847 ../modules/staff/module.php:965
+#: ../modules/staff/module.php:1086 ../modules/staff/module.php:1339
+#: ../modules/tabs/module.php:441 ../modules/tabs/module.php:521
+#: ../modules/tabs/module.php:666 ../modules/testimonials/module.php:199
+#: ../modules/testimonials/module.php:503
+#: ../modules/testimonials/module.php:603
+#: ../modules/testimonials/module.php:825
+#: ../modules/testimonials/module.php:926
+#: ../modules/testimonials/module.php:1195
+#: ../modules/text-simple/module.php:125 ../modules/text-simple/module.php:402
+#: ../modules/text-simple/module.php:616 ../modules/text-simple/module.php:830
+#: ../modules/text-simple/module.php:1044
+#: ../modules/text-simple/module.php:1258
+#: ../modules/text-simple/module.php:1369
+#: ../modules/text-simple/module.php:1634
+#: ../modules/tp-comments-form/module.php:89
+#: ../modules/tp-comments-form/module.php:188
+#: ../modules/tp-comments-form/module.php:341
+#: ../modules/tp-comments-form/module.php:586
+#: ../modules/tp-comments-form/module.php:777
+#: ../modules/tp-comments/module.php:87 ../modules/tp-comments/module.php:200
+#: ../modules/tp-comments/module.php:316 ../modules/tp-comments/module.php:444
+#: ../modules/tp-comments/module.php:842
+#: ../modules/tp-comments/module.php:1105 ../modules/tp-content/module.php:117
+#: ../modules/tp-content/module.php:746 ../modules/tp-content/module.php:949
+#: ../modules/tp-downloads-button/module.php:113
+#: ../modules/tp-downloads-button/module.php:271
+#: ../modules/tp-downloads-button/module.php:342
+#: ../modules/tp-gallery-slider/module.php:157
+#: ../modules/tp-gallery-slider/module.php:508
+#: ../modules/tp-gallery-slider/module.php:651
+#: ../modules/tp-meta/module.php:154 ../modules/tp-title/module.php:96
+#: ../modules/tp-title/module.php:243 ../modules/tp-title/module.php:326
+#: ../modules/widgets/module.php:142 ../modules/widgets/module.php:392
+#: ../modules/widgets/module.php:527 ../modules/widgets/module.php:683
+#: ../modules/woocommerce/module.php:218 ../modules/woocommerce/module.php:380
+#: ../modules/woocommerce/module.php:862 ../modules/woocommerce/module.php:975
+#: ../modules/woocommerce/module.php:1134
+#: ../modules/woocommerce/module.php:1288
+#: ../modules/woocommerce/module.php:1565
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../modules/accordion/module.php:106 ../modules/accordion/module.php:208
+#: ../modules/accordion/module.php:349 ../modules/accordion/module.php:502
+#: ../modules/accordion/module.php:561 ../modules/accordion/module.php:740
+#: ../modules/blog/module.php:314 ../modules/blog/module.php:511
+#: ../modules/blog/module.php:658 ../modules/blog/module.php:926
+#: ../modules/blog/module.php:1229 ../modules/button/module.php:174
+#: ../modules/button/module.php:343 ../modules/button/module.php:426
+#: ../modules/downloads/module.php:381 ../modules/downloads/module.php:528
+#: ../modules/downloads/module.php:731 ../modules/downloads/module.php:1048
+#: ../modules/galleries/module.php:413 ../modules/galleries/module.php:826
+#: ../modules/html/module.php:136 ../modules/html/module.php:826
+#: ../modules/html/module.php:1091 ../modules/image/module.php:191
+#: ../modules/image/module.php:351 ../modules/image/module.php:446
+#: ../modules/infobox/module.php:262 ../modules/infobox/module.php:829
+#: ../modules/infobox/module.php:948 ../modules/infobox/module.php:1219
+#: ../modules/notification/module.php:101
+#: ../modules/notification/module.php:406
+#: ../modules/notification/module.php:513 ../modules/partners/module.php:383
+#: ../modules/partners/module.php:518 ../modules/posts/module.php:314
+#: ../modules/posts/module.php:511 ../modules/posts/module.php:658
+#: ../modules/posts/module.php:926 ../modules/posts/module.php:1229
+#: ../modules/progress-bars/module.php:153
+#: ../modules/progress-bars/module.php:253
+#: ../modules/progress-bars/module.php:386
+#: ../modules/progress-bars/module.php:457
+#: ../modules/progress-bars/module.php:612 ../modules/projects/module.php:377
+#: ../modules/projects/module.php:524 ../modules/projects/module.php:1025
+#: ../modules/staff/module.php:398 ../modules/staff/module.php:568
+#: ../modules/staff/module.php:721 ../modules/staff/module.php:977
+#: ../modules/tabs/module.php:171 ../modules/tabs/module.php:452
+#: ../modules/tabs/module.php:533 ../modules/tabs/module.php:678
+#: ../modules/testimonials/module.php:361
+#: ../modules/text-simple/module.php:136 ../modules/text-simple/module.php:414
+#: ../modules/text-simple/module.php:628 ../modules/text-simple/module.php:842
+#: ../modules/text-simple/module.php:1056
+#: ../modules/text-simple/module.php:1270
+#: ../modules/text-simple/module.php:1381
+#: ../modules/text-simple/module.php:1646
+#: ../modules/tp-comments-form/module.php:100
+#: ../modules/tp-comments-form/module.php:353
+#: ../modules/tp-comments-form/module.php:539
+#: ../modules/tp-comments-form/module.php:598
+#: ../modules/tp-comments-form/module.php:789
+#: ../modules/tp-comments/module.php:98 ../modules/tp-comments/module.php:212
+#: ../modules/tp-comments/module.php:456 ../modules/tp-comments/module.php:795
+#: ../modules/tp-comments/module.php:854
+#: ../modules/tp-comments/module.php:1117 ../modules/tp-content/module.php:128
+#: ../modules/tp-content/module.php:758 ../modules/tp-content/module.php:961
+#: ../modules/tp-downloads-button/module.php:124
+#: ../modules/tp-downloads-button/module.php:283
+#: ../modules/tp-downloads-button/module.php:354
+#: ../modules/tp-gallery-slider/module.php:168
+#: ../modules/tp-gallery-slider/module.php:282
+#: ../modules/tp-gallery-slider/module.php:398
+#: ../modules/tp-gallery-slider/module.php:520
+#: ../modules/tp-gallery-slider/module.php:663
+#: ../modules/tp-meta/module.php:165 ../modules/tp-meta/module.php:297
+#: ../modules/tp-meta/module.php:356 ../modules/tp-thumbnail/module.php:137
+#: ../modules/tp-thumbnail/module.php:182
+#: ../modules/tp-thumbnail/module.php:229 ../modules/tp-title/module.php:107
+#: ../modules/tp-title/module.php:255 ../modules/tp-title/module.php:338
+#: ../modules/widgets/module.php:153 ../modules/widgets/module.php:267
+#: ../modules/widgets/module.php:539 ../modules/widgets/module.php:695
+#: ../modules/woocommerce/module.php:392 ../modules/woocommerce/module.php:736
+msgid "Padding Vertical"
+msgstr ""
+
+#: ../modules/accordion/module.php:117 ../modules/accordion/module.php:220
+#: ../modules/accordion/module.php:361 ../modules/accordion/module.php:514
+#: ../modules/accordion/module.php:573 ../modules/accordion/module.php:752
+#: ../modules/blog/module.php:325 ../modules/blog/module.php:523
+#: ../modules/blog/module.php:670 ../modules/blog/module.php:938
+#: ../modules/blog/module.php:1241 ../modules/button/module.php:185
+#: ../modules/button/module.php:355 ../modules/button/module.php:438
+#: ../modules/downloads/module.php:393 ../modules/downloads/module.php:540
+#: ../modules/galleries/module.php:425 ../modules/galleries/module.php:838
+#: ../modules/html/module.php:147 ../modules/html/module.php:838
+#: ../modules/html/module.php:1103 ../modules/image/module.php:202
+#: ../modules/image/module.php:363 ../modules/image/module.php:458
+#: ../modules/infobox/module.php:275 ../modules/infobox/module.php:841
+#: ../modules/infobox/module.php:962 ../modules/infobox/module.php:1233
+#: ../modules/notification/module.php:112
+#: ../modules/notification/module.php:418
+#: ../modules/notification/module.php:525 ../modules/partners/module.php:530
+#: ../modules/posts/module.php:325 ../modules/posts/module.php:523
+#: ../modules/posts/module.php:670 ../modules/posts/module.php:938
+#: ../modules/posts/module.php:1241 ../modules/progress-bars/module.php:164
+#: ../modules/progress-bars/module.php:241
+#: ../modules/progress-bars/module.php:398
+#: ../modules/progress-bars/module.php:469
+#: ../modules/progress-bars/module.php:624 ../modules/projects/module.php:389
+#: ../modules/projects/module.php:536 ../modules/projects/module.php:1037
+#: ../modules/staff/module.php:410 ../modules/staff/module.php:580
+#: ../modules/staff/module.php:733 ../modules/tabs/module.php:183
+#: ../modules/tabs/module.php:463 ../modules/tabs/module.php:545
+#: ../modules/tabs/module.php:690 ../modules/testimonials/module.php:373
+#: ../modules/text-simple/module.php:147 ../modules/text-simple/module.php:426
+#: ../modules/text-simple/module.php:640 ../modules/text-simple/module.php:854
+#: ../modules/text-simple/module.php:1068
+#: ../modules/text-simple/module.php:1282
+#: ../modules/text-simple/module.php:1393
+#: ../modules/text-simple/module.php:1658
+#: ../modules/tp-comments-form/module.php:111
+#: ../modules/tp-comments-form/module.php:365
+#: ../modules/tp-comments-form/module.php:551
+#: ../modules/tp-comments-form/module.php:610
+#: ../modules/tp-comments-form/module.php:801
+#: ../modules/tp-comments/module.php:109 ../modules/tp-comments/module.php:224
+#: ../modules/tp-comments/module.php:352 ../modules/tp-comments/module.php:468
+#: ../modules/tp-comments/module.php:807 ../modules/tp-comments/module.php:866
+#: ../modules/tp-comments/module.php:1129 ../modules/tp-content/module.php:139
+#: ../modules/tp-content/module.php:770 ../modules/tp-content/module.php:973
+#: ../modules/tp-gallery-slider/module.php:179
+#: ../modules/tp-gallery-slider/module.php:294
+#: ../modules/tp-gallery-slider/module.php:410
+#: ../modules/tp-gallery-slider/module.php:532
+#: ../modules/tp-gallery-slider/module.php:675
+#: ../modules/tp-meta/module.php:176 ../modules/tp-meta/module.php:309
+#: ../modules/tp-meta/module.php:368 ../modules/tp-thumbnail/module.php:148
+#: ../modules/tp-thumbnail/module.php:194
+#: ../modules/tp-thumbnail/module.php:241 ../modules/tp-title/module.php:118
+#: ../modules/tp-title/module.php:267 ../modules/tp-title/module.php:350
+#: ../modules/widgets/module.php:164 ../modules/widgets/module.php:279
+#: ../modules/widgets/module.php:551 ../modules/widgets/module.php:707
+#: ../modules/woocommerce/module.php:404 ../modules/woocommerce/module.php:748
+msgid "Padding Horizontal"
+msgstr ""
+
+#: ../modules/accordion/module.php:300 ../modules/accordion/module.php:441
+#: ../modules/blog/module.php:341 ../modules/blog/module.php:724
+#: ../modules/blog/module.php:865 ../modules/blog/module.php:978
+#: ../modules/blog/module.php:1169 ../modules/button/module.php:201
+#: ../modules/button/module.php:274 ../modules/downloads/module.php:223
+#: ../modules/downloads/module.php:582 ../modules/downloads/module.php:682
+#: ../modules/downloads/module.php:785 ../modules/downloads/module.php:976
+#: ../modules/downloads/module.php:1096 ../modules/galleries/module.php:255
+#: ../modules/galleries/module.php:880 ../modules/galleries/module.php:969
+#: ../modules/galleries/module.php:997 ../modules/html/module.php:163
+#: ../modules/html/module.php:254 ../modules/html/module.php:357
+#: ../modules/html/module.php:460 ../modules/html/module.php:563
+#: ../modules/html/module.php:666 ../modules/image/module.php:243
+#: ../modules/infobox/module.php:377 ../modules/infobox/module.php:473
+#: ../modules/infobox/module.php:552 ../modules/infobox/module.php:727
+#: ../modules/notification/module.php:135 ../modules/partners/module.php:211
+#: ../modules/partners/module.php:572 ../modules/partners/module.php:660
+#: ../modules/posts/module.php:341 ../modules/posts/module.php:724
+#: ../modules/posts/module.php:865 ../modules/posts/module.php:978
+#: ../modules/posts/module.php:1169 ../modules/progress-bars/module.php:180
+#: ../modules/progress-bars/module.php:363 ../modules/projects/module.php:219
+#: ../modules/projects/module.php:578 ../modules/projects/module.php:667
+#: ../modules/projects/module.php:792 ../modules/projects/module.php:965
+#: ../modules/social/module.php:184 ../modules/social/module.php:240
+#: ../modules/staff/module.php:236 ../modules/staff/module.php:775
+#: ../modules/staff/module.php:916 ../modules/staff/module.php:994
+#: ../modules/tabs/module.php:288 ../modules/testimonials/module.php:215
+#: ../modules/testimonials/module.php:442
+#: ../modules/testimonials/module.php:776
+#: ../modules/testimonials/module.php:854
+#: ../modules/text-simple/module.php:163 ../modules/text-simple/module.php:341
+#: ../modules/text-simple/module.php:555 ../modules/text-simple/module.php:769
+#: ../modules/text-simple/module.php:983
+#: ../modules/text-simple/module.php:1197
+#: ../modules/tp-comments-form/module.php:127
+#: ../modules/tp-comments-form/module.php:280
+#: ../modules/tp-comments-form/module.php:479
+#: ../modules/tp-comments/module.php:497 ../modules/tp-comments/module.php:551
+#: ../modules/tp-comments/module.php:605 ../modules/tp-comments/module.php:734
+#: ../modules/tp-content/module.php:155 ../modules/tp-content/module.php:246
+#: ../modules/tp-content/module.php:337 ../modules/tp-content/module.php:428
+#: ../modules/tp-content/module.php:519 ../modules/tp-content/module.php:610
+#: ../modules/tp-downloads-button/module.php:140
+#: ../modules/tp-downloads-button/module.php:213
+#: ../modules/tp-gallery-slider/module.php:427
+#: ../modules/tp-meta/module.php:192 ../modules/tp-title/module.php:134
+#: ../modules/widgets/module.php:331 ../modules/widgets/module.php:421
+#: ../modules/woocommerce/module.php:234 ../modules/woocommerce/module.php:501
+#: ../modules/woocommerce/module.php:790 ../modules/woocommerce/module.php:914
+#: ../modules/woocommerce/module.php:1037
+#: ../modules/woocommerce/module.php:1123
+msgid "Color"
+msgstr ""
+
+#: ../modules/accordion/module.php:311 ../modules/accordion/module.php:452
+#: ../modules/blog/module.php:746 ../modules/blog/module.php:876
+#: ../modules/blog/module.php:989 ../modules/blog/module.php:1191
+#: ../modules/button/module.php:223 ../modules/button/module.php:367
+#: ../modules/button/module.php:450 ../modules/downloads/module.php:604
+#: ../modules/downloads/module.php:704 ../modules/downloads/module.php:796
+#: ../modules/downloads/module.php:998 ../modules/downloads/module.php:1107
+#: ../modules/galleries/module.php:902 ../modules/galleries/module.php:1008
+#: ../modules/html/module.php:174 ../modules/html/module.php:265
+#: ../modules/html/module.php:368 ../modules/html/module.php:471
+#: ../modules/html/module.php:574 ../modules/html/module.php:677
+#: ../modules/html/module.php:850 ../modules/html/module.php:1115
+#: ../modules/image/module.php:254 ../modules/infobox/module.php:484
+#: ../modules/infobox/module.php:563 ../modules/infobox/module.php:749
+#: ../modules/notification/module.php:146
+#: ../modules/notification/module.php:430
+#: ../modules/notification/module.php:537 ../modules/partners/module.php:594
+#: ../modules/partners/module.php:671 ../modules/posts/module.php:746
+#: ../modules/posts/module.php:876 ../modules/posts/module.php:989
+#: ../modules/posts/module.php:1191 ../modules/progress-bars/module.php:191
+#: ../modules/projects/module.php:600 ../modules/projects/module.php:678
+#: ../modules/projects/module.php:803 ../modules/projects/module.php:987
+#: ../modules/staff/module.php:797 ../modules/staff/module.php:927
+#: ../modules/staff/module.php:1005 ../modules/tabs/module.php:133
+#: ../modules/tabs/module.php:395 ../modules/tabs/module.php:497
+#: ../modules/tabs/module.php:642 ../modules/testimonials/module.php:453
+#: ../modules/testimonials/module.php:787
+#: ../modules/testimonials/module.php:865
+#: ../modules/text-simple/module.php:174 ../modules/text-simple/module.php:352
+#: ../modules/text-simple/module.php:566 ../modules/text-simple/module.php:780
+#: ../modules/text-simple/module.php:994
+#: ../modules/text-simple/module.php:1208
+#: ../modules/text-simple/module.php:1405
+#: ../modules/text-simple/module.php:1670
+#: ../modules/tp-comments-form/module.php:138
+#: ../modules/tp-comments-form/module.php:291
+#: ../modules/tp-comments-form/module.php:501
+#: ../modules/tp-comments/module.php:508 ../modules/tp-comments/module.php:562
+#: ../modules/tp-comments/module.php:616 ../modules/tp-comments/module.php:745
+#: ../modules/tp-content/module.php:166 ../modules/tp-content/module.php:257
+#: ../modules/tp-content/module.php:348 ../modules/tp-content/module.php:439
+#: ../modules/tp-content/module.php:530 ../modules/tp-content/module.php:621
+#: ../modules/tp-content/module.php:782 ../modules/tp-content/module.php:985
+#: ../modules/tp-downloads-button/module.php:162
+#: ../modules/tp-downloads-button/module.php:259
+#: ../modules/tp-downloads-button/module.php:330
+#: ../modules/tp-meta/module.php:214 ../modules/tp-meta/module.php:321
+#: ../modules/tp-meta/module.php:380 ../modules/tp-title/module.php:145
+#: ../modules/tp-title/module.php:279 ../modules/tp-title/module.php:362
+#: ../modules/widgets/module.php:342 ../modules/widgets/module.php:432
+#: ../modules/woocommerce/module.php:524 ../modules/woocommerce/module.php:812
+#: ../modules/woocommerce/module.php:925
+#: ../modules/woocommerce/module.php:1059
+msgid "Font Size"
+msgstr ""
+
+#: ../modules/accordion/module.php:323 ../modules/accordion/module.php:464
+#: ../modules/blog/module.php:758 ../modules/blog/module.php:899
+#: ../modules/blog/module.php:1001 ../modules/blog/module.php:1203
+#: ../modules/button/module.php:235 ../modules/downloads/module.php:616
+#: ../modules/downloads/module.php:716 ../modules/downloads/module.php:808
+#: ../modules/downloads/module.php:1010 ../modules/downloads/module.php:1119
+#: ../modules/galleries/module.php:914 ../modules/galleries/module.php:1020
+#: ../modules/html/module.php:186 ../modules/html/module.php:277
+#: ../modules/html/module.php:380 ../modules/html/module.php:483
+#: ../modules/html/module.php:586 ../modules/html/module.php:689
+#: ../modules/image/module.php:266 ../modules/infobox/module.php:496
+#: ../modules/infobox/module.php:575 ../modules/infobox/module.php:761
+#: ../modules/notification/module.php:158 ../modules/partners/module.php:606
+#: ../modules/partners/module.php:683 ../modules/posts/module.php:758
+#: ../modules/posts/module.php:899 ../modules/posts/module.php:1001
+#: ../modules/posts/module.php:1203 ../modules/progress-bars/module.php:203
+#: ../modules/projects/module.php:612 ../modules/projects/module.php:690
+#: ../modules/projects/module.php:815 ../modules/projects/module.php:999
+#: ../modules/staff/module.php:809 ../modules/staff/module.php:939
+#: ../modules/staff/module.php:1017 ../modules/tabs/module.php:145
+#: ../modules/tabs/module.php:406 ../modules/testimonials/module.php:465
+#: ../modules/testimonials/module.php:799
+#: ../modules/testimonials/module.php:877
+#: ../modules/text-simple/module.php:186 ../modules/text-simple/module.php:364
+#: ../modules/text-simple/module.php:578 ../modules/text-simple/module.php:792
+#: ../modules/text-simple/module.php:1006
+#: ../modules/text-simple/module.php:1220
+#: ../modules/tp-comments-form/module.php:150
+#: ../modules/tp-comments-form/module.php:303
+#: ../modules/tp-comments-form/module.php:513
+#: ../modules/tp-comments/module.php:520 ../modules/tp-comments/module.php:574
+#: ../modules/tp-comments/module.php:628 ../modules/tp-comments/module.php:757
+#: ../modules/tp-content/module.php:178 ../modules/tp-content/module.php:269
+#: ../modules/tp-content/module.php:360 ../modules/tp-content/module.php:451
+#: ../modules/tp-content/module.php:542 ../modules/tp-content/module.php:633
+#: ../modules/tp-downloads-button/module.php:174
+#: ../modules/tp-meta/module.php:226 ../modules/tp-title/module.php:157
+#: ../modules/widgets/module.php:354 ../modules/widgets/module.php:444
+#: ../modules/woocommerce/module.php:536 ../modules/woocommerce/module.php:824
+#: ../modules/woocommerce/module.php:937
+#: ../modules/woocommerce/module.php:1071
+msgid "Font Weight"
+msgstr ""
+
+#: ../modules/accordion/module.php:338 ../modules/accordion/module.php:479
+#: ../modules/blog/module.php:773 ../modules/blog/module.php:888
+#: ../modules/blog/module.php:1016 ../modules/blog/module.php:1218
+#: ../modules/button/module.php:250 ../modules/downloads/module.php:631
+#: ../modules/downloads/module.php:693 ../modules/downloads/module.php:823
+#: ../modules/downloads/module.php:1025 ../modules/downloads/module.php:1134
+#: ../modules/galleries/module.php:929 ../modules/galleries/module.php:1035
+#: ../modules/html/module.php:201 ../modules/html/module.php:292
+#: ../modules/html/module.php:395 ../modules/html/module.php:498
+#: ../modules/html/module.php:601 ../modules/html/module.php:704
+#: ../modules/image/module.php:281 ../modules/infobox/module.php:511
+#: ../modules/infobox/module.php:590 ../modules/infobox/module.php:776
+#: ../modules/notification/module.php:185 ../modules/partners/module.php:621
+#: ../modules/partners/module.php:698 ../modules/posts/module.php:773
+#: ../modules/posts/module.php:888 ../modules/posts/module.php:1016
+#: ../modules/posts/module.php:1218 ../modules/progress-bars/module.php:218
+#: ../modules/projects/module.php:627 ../modules/projects/module.php:705
+#: ../modules/projects/module.php:830 ../modules/projects/module.php:1014
+#: ../modules/staff/module.php:824 ../modules/staff/module.php:954
+#: ../modules/staff/module.php:1032 ../modules/tabs/module.php:160
+#: ../modules/tabs/module.php:420 ../modules/testimonials/module.php:480
+#: ../modules/testimonials/module.php:814
+#: ../modules/testimonials/module.php:892
+#: ../modules/text-simple/module.php:201 ../modules/text-simple/module.php:379
+#: ../modules/text-simple/module.php:593 ../modules/text-simple/module.php:807
+#: ../modules/text-simple/module.php:1021
+#: ../modules/text-simple/module.php:1235
+#: ../modules/tp-comments-form/module.php:165
+#: ../modules/tp-comments-form/module.php:318
+#: ../modules/tp-comments-form/module.php:528
+#: ../modules/tp-comments/module.php:535 ../modules/tp-comments/module.php:589
+#: ../modules/tp-comments/module.php:643 ../modules/tp-comments/module.php:772
+#: ../modules/tp-content/module.php:193 ../modules/tp-content/module.php:284
+#: ../modules/tp-content/module.php:375 ../modules/tp-content/module.php:466
+#: ../modules/tp-content/module.php:557 ../modules/tp-content/module.php:648
+#: ../modules/tp-downloads-button/module.php:189
+#: ../modules/tp-meta/module.php:241 ../modules/tp-title/module.php:172
+#: ../modules/widgets/module.php:369 ../modules/widgets/module.php:459
+#: ../modules/woocommerce/module.php:551 ../modules/woocommerce/module.php:839
+#: ../modules/woocommerce/module.php:952
+#: ../modules/woocommerce/module.php:1086
+msgid "Font Family"
+msgstr ""
+
+#: ../modules/accordion/module.php:490 ../modules/blog/module.php:784
+#: ../modules/blog/module.php:1027 ../modules/downloads/module.php:642
+#: ../modules/downloads/module.php:834 ../modules/galleries/module.php:940
+#: ../modules/galleries/module.php:1046 ../modules/html/module.php:212
+#: ../modules/html/module.php:303 ../modules/html/module.php:406
+#: ../modules/html/module.php:509 ../modules/html/module.php:612
+#: ../modules/html/module.php:715 ../modules/html/module.php:862
+#: ../modules/html/module.php:1127 ../modules/image/module.php:292
+#: ../modules/infobox/module.php:522 ../modules/infobox/module.php:601
+#: ../modules/notification/module.php:173
+#: ../modules/notification/module.php:442
+#: ../modules/notification/module.php:549 ../modules/partners/module.php:632
+#: ../modules/partners/module.php:709 ../modules/posts/module.php:784
+#: ../modules/posts/module.php:1027 ../modules/projects/module.php:638
+#: ../modules/projects/module.php:716 ../modules/projects/module.php:841
+#: ../modules/staff/module.php:835 ../modules/staff/module.php:1043
+#: ../modules/tabs/module.php:430 ../modules/tabs/module.php:509
+#: ../modules/tabs/module.php:654 ../modules/testimonials/module.php:491
+#: ../modules/text-simple/module.php:212 ../modules/text-simple/module.php:390
+#: ../modules/text-simple/module.php:604 ../modules/text-simple/module.php:818
+#: ../modules/text-simple/module.php:1032
+#: ../modules/text-simple/module.php:1246
+#: ../modules/text-simple/module.php:1417
+#: ../modules/text-simple/module.php:1682
+#: ../modules/tp-comments-form/module.php:176
+#: ../modules/tp-comments-form/module.php:329
+#: ../modules/tp-comments/module.php:783 ../modules/tp-content/module.php:204
+#: ../modules/tp-content/module.php:295 ../modules/tp-content/module.php:386
+#: ../modules/tp-content/module.php:477 ../modules/tp-content/module.php:568
+#: ../modules/tp-content/module.php:659 ../modules/tp-content/module.php:794
+#: ../modules/tp-content/module.php:997 ../modules/tp-title/module.php:183
+#: ../modules/tp-title/module.php:291 ../modules/tp-title/module.php:374
+#: ../modules/widgets/module.php:380 ../modules/widgets/module.php:470
+#: ../modules/woocommerce/module.php:850 ../modules/woocommerce/module.php:963
+msgid "Line Height"
+msgstr ""
+
+#: ../modules/accordion/module.php:531 ../modules/accordion/module.php:710
+#: ../modules/blog/module.php:1300 ../modules/blog/module.php:1589
+#: ../modules/button/module.php:313 ../modules/button/module.php:396
+#: ../modules/downloads/module.php:1150 ../modules/downloads/module.php:1415
+#: ../modules/galleries/module.php:1071 ../modules/galleries/module.php:1311
+#: ../modules/html/module.php:796 ../modules/html/module.php:1061
+#: ../modules/image/module.php:321 ../modules/image/module.php:416
+#: ../modules/infobox/module.php:918 ../modules/infobox/module.php:1189
+#: ../modules/notification/module.php:376
+#: ../modules/notification/module.php:483 ../modules/partners/module.php:734
+#: ../modules/partners/module.php:879 ../modules/posts/module.php:1300
+#: ../modules/posts/module.php:1589 ../modules/progress-bars/module.php:427
+#: ../modules/progress-bars/module.php:582 ../modules/projects/module.php:1085
+#: ../modules/projects/module.php:1350 ../modules/separator/module.php:67
+#: ../modules/separator/module.php:104 ../modules/social/module.php:279
+#: ../modules/social/module.php:350 ../modules/staff/module.php:1068
+#: ../modules/staff/module.php:1321 ../modules/tabs/module.php:479
+#: ../modules/tabs/module.php:624 ../modules/testimonials/module.php:908
+#: ../modules/testimonials/module.php:1177
+#: ../modules/text-simple/module.php:1351
+#: ../modules/text-simple/module.php:1616
+#: ../modules/tp-comments-form/module.php:568
+#: ../modules/tp-comments-form/module.php:759
+#: ../modules/tp-comments/module.php:824
+#: ../modules/tp-comments/module.php:1087 ../modules/tp-content/module.php:728
+#: ../modules/tp-content/module.php:931
+#: ../modules/tp-downloads-button/module.php:241
+#: ../modules/tp-downloads-button/module.php:312
+#: ../modules/tp-gallery-slider/module.php:490
+#: ../modules/tp-gallery-slider/module.php:633
+#: ../modules/tp-meta/module.php:279 ../modules/tp-meta/module.php:338
+#: ../modules/tp-thumbnail/module.php:164
+#: ../modules/tp-thumbnail/module.php:211 ../modules/tp-title/module.php:225
+#: ../modules/tp-title/module.php:308 ../modules/widgets/module.php:509
+#: ../modules/widgets/module.php:665 ../modules/woocommerce/module.php:1270
+#: ../modules/woocommerce/module.php:1547
+msgid "Responsive"
+msgstr ""
+
+#: ../modules/accordion/module.php:585 ../modules/accordion/module.php:764
+msgid "Header - Margin Bottom"
+msgstr ""
+
+#: ../modules/accordion/module.php:597 ../modules/accordion/module.php:776
+msgid "Header - Padding Vertical"
+msgstr ""
+
+#: ../modules/accordion/module.php:609 ../modules/accordion/module.php:788
+msgid "Header - Padding Horizontal"
+msgstr ""
+
+#: ../modules/accordion/module.php:621 ../modules/accordion/module.php:800
+#: ../modules/blog/module.php:1416 ../modules/blog/module.php:1705
+#: ../modules/downloads/module.php:1254 ../modules/downloads/module.php:1519
+#: ../modules/galleries/module.php:1235 ../modules/galleries/module.php:1475
+#: ../modules/infobox/module.php:1040 ../modules/infobox/module.php:1311
+#: ../modules/partners/module.php:814 ../modules/partners/module.php:959
+#: ../modules/posts/module.php:1416 ../modules/posts/module.php:1705
+#: ../modules/progress-bars/module.php:481
+#: ../modules/progress-bars/module.php:636 ../modules/projects/module.php:1189
+#: ../modules/projects/module.php:1454 ../modules/staff/module.php:1220
+#: ../modules/staff/module.php:1473 ../modules/widgets/module.php:587
+#: ../modules/widgets/module.php:743 ../modules/woocommerce/module.php:1398
+#: ../modules/woocommerce/module.php:1675
+msgid "Title - Font Size"
+msgstr ""
+
+#: ../modules/accordion/module.php:633 ../modules/accordion/module.php:812
+#: ../modules/progress-bars/module.php:517
+#: ../modules/progress-bars/module.php:672
+msgid "Title - Padding Vertical"
+msgstr ""
+
+#: ../modules/accordion/module.php:645 ../modules/accordion/module.php:824
+#: ../modules/progress-bars/module.php:505
+#: ../modules/progress-bars/module.php:660
+msgid "Title - Padding Horizontal"
+msgstr ""
+
+#: ../modules/accordion/module.php:657 ../modules/accordion/module.php:836
+#: ../modules/infobox/module.php:1076 ../modules/infobox/module.php:1347
+#: ../modules/widgets/module.php:635 ../modules/widgets/module.php:791
+msgid "Content - Font Size"
+msgstr ""
+
+#: ../modules/accordion/module.php:669 ../modules/accordion/module.php:848
+#: ../modules/infobox/module.php:1088 ../modules/infobox/module.php:1359
+#: ../modules/widgets/module.php:647 ../modules/widgets/module.php:803
+msgid "Content - Line Height"
+msgstr ""
+
+#: ../modules/accordion/module.php:681 ../modules/accordion/module.php:860
+msgid "Content - Padding Vertical"
+msgstr ""
+
+#: ../modules/accordion/module.php:693 ../modules/accordion/module.php:872
+msgid "Content - Padding Horizontal"
+msgstr ""
+
+#: ../modules/accordion/module.php:942
+msgid "CLICK TO EDIT"
+msgstr ""
+
+#: ../modules/blog/module.php:33 ../modules/downloads/module.php:33
+#: ../modules/galleries/module.php:33 ../modules/partners/module.php:33
+#: ../modules/posts/module.php:40 ../modules/projects/module.php:33
+#: ../modules/staff/module.php:33 ../modules/testimonials/module.php:33
+#: ../modules/woocommerce/module.php:32
+msgid "Grid"
+msgstr ""
+
+#: ../modules/blog/module.php:37 ../modules/downloads/module.php:37
+#: ../modules/galleries/module.php:37 ../modules/partners/module.php:37
+#: ../modules/posts/module.php:44 ../modules/projects/module.php:37
+#: ../modules/staff/module.php:37 ../modules/testimonials/module.php:37
+#: ../modules/woocommerce/module.php:36
+msgid "Masonry Grid"
+msgstr ""
+
+#: ../modules/blog/module.php:41 ../modules/downloads/module.php:41
+#: ../modules/galleries/module.php:41 ../modules/partners/module.php:41
+#: ../modules/posts/module.php:48 ../modules/projects/module.php:41
+#: ../modules/staff/module.php:41 ../modules/testimonials/module.php:41
+#: ../modules/woocommerce/module.php:40
+msgid "Carousel"
+msgstr ""
+
+#: ../modules/blog/module.php:47 ../modules/posts/module.php:54
+msgid "Orientation"
+msgstr ""
+
+#: ../modules/blog/module.php:53 ../modules/posts/module.php:60
+#: ../modules/tp-meta/module.php:54
+msgid "Vertical"
+msgstr ""
+
+#: ../modules/blog/module.php:57 ../modules/posts/module.php:64
+#: ../modules/tp-meta/module.php:50
+msgid "Horizontal"
+msgstr ""
+
+#: ../modules/blog/module.php:63 ../modules/downloads/module.php:47
+#: ../modules/galleries/module.php:47 ../modules/partners/module.php:47
+#: ../modules/posts/module.php:70 ../modules/projects/module.php:47
+#: ../modules/staff/module.php:47 ../modules/testimonials/module.php:47
+#: ../modules/woocommerce/module.php:46
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../modules/blog/module.php:69 ../modules/downloads/module.php:53
+#: ../modules/galleries/module.php:53 ../modules/partners/module.php:53
+#: ../modules/posts/module.php:76 ../modules/projects/module.php:53
+#: ../modules/staff/module.php:53 ../modules/testimonials/module.php:53
+#: ../modules/woocommerce/module.php:52
+msgid "Pagination"
+msgstr ""
+
+#: ../modules/blog/module.php:79 ../modules/downloads/module.php:63
+#: ../modules/galleries/module.php:63 ../modules/partners/module.php:63
+#: ../modules/posts/module.php:86 ../modules/projects/module.php:63
+#: ../modules/staff/module.php:63 ../modules/testimonials/module.php:63
+#: ../modules/woocommerce/module.php:62
+msgid "Numbered"
+msgstr ""
+
+#: ../modules/blog/module.php:85 ../modules/galleries/module.php:69
+#: ../modules/partners/module.php:69 ../modules/posts/module.php:92
+#: ../modules/projects/module.php:69 ../modules/testimonials/module.php:69
+msgid "Posts Per Row"
+msgstr ""
+
+#: ../modules/blog/module.php:92 ../modules/downloads/module.php:69
+#: ../modules/galleries/module.php:76 ../modules/partners/module.php:76
+#: ../modules/projects/module.php:76 ../modules/projects/module.php:170
+#: ../modules/staff/module.php:76 ../modules/testimonials/module.php:76
+#: ../modules/woocommerce/module.php:75
+msgid "Categories"
+msgstr ""
+
+#: ../modules/blog/module.php:99 ../modules/downloads/module.php:83
+#: ../modules/galleries/module.php:83 ../modules/partners/module.php:83
+#: ../modules/posts/module.php:99 ../modules/projects/module.php:83
+#: ../modules/staff/module.php:83 ../modules/testimonials/module.php:83
+#: ../modules/woocommerce/module.php:82
+msgid "Order By"
+msgstr ""
+
+#: ../modules/blog/module.php:105 ../modules/downloads/module.php:89
+#: ../modules/galleries/module.php:89 ../modules/partners/module.php:89
+#: ../modules/posts/module.php:105 ../modules/projects/module.php:89
+#: ../modules/staff/module.php:89 ../modules/testimonials/module.php:89
+#: ../modules/woocommerce/module.php:88
+msgid "Publish Date"
+msgstr ""
+
+#: ../modules/blog/module.php:109 ../modules/downloads/module.php:93
+#: ../modules/galleries/module.php:93 ../modules/partners/module.php:93
+#: ../modules/posts/module.php:109 ../modules/projects/module.php:93
+#: ../modules/staff/module.php:93 ../modules/testimonials/module.php:93
+#: ../modules/woocommerce/module.php:92
+msgid "Modified Date"
+msgstr ""
+
+#: ../modules/blog/module.php:113 ../modules/downloads/module.php:97
+#: ../modules/galleries/module.php:97 ../modules/partners/module.php:97
+#: ../modules/posts/module.php:113 ../modules/projects/module.php:97
+#: ../modules/staff/module.php:97 ../modules/testimonials/module.php:97
+#: ../modules/woocommerce/module.php:96
+msgid "Random"
+msgstr ""
+
+#: ../modules/blog/module.php:117 ../modules/downloads/module.php:101
+#: ../modules/galleries/module.php:101 ../modules/partners/module.php:101
+#: ../modules/posts/module.php:117 ../modules/projects/module.php:101
+#: ../modules/staff/module.php:101 ../modules/testimonials/module.php:101
+#: ../modules/woocommerce/module.php:100
+msgid "Alphabetic"
+msgstr ""
+
+#: ../modules/blog/module.php:121 ../modules/downloads/module.php:105
+#: ../modules/galleries/module.php:105 ../modules/partners/module.php:105
+#: ../modules/posts/module.php:121 ../modules/projects/module.php:105
+#: ../modules/staff/module.php:105 ../modules/testimonials/module.php:105
+#: ../modules/woocommerce/module.php:104
+msgid "Comment Count"
+msgstr ""
+
+#: ../modules/blog/module.php:127 ../modules/downloads/module.php:111
+#: ../modules/galleries/module.php:111 ../modules/partners/module.php:111
+#: ../modules/posts/module.php:127 ../modules/projects/module.php:111
+#: ../modules/staff/module.php:111 ../modules/testimonials/module.php:111
+#: ../modules/woocommerce/module.php:114
+msgid "Order"
+msgstr ""
+
+#: ../modules/blog/module.php:133 ../modules/downloads/module.php:117
+#: ../modules/galleries/module.php:117 ../modules/partners/module.php:117
+#: ../modules/posts/module.php:133 ../modules/projects/module.php:117
+#: ../modules/staff/module.php:117 ../modules/testimonials/module.php:117
+#: ../modules/woocommerce/module.php:120
+msgid "Ascending"
+msgstr ""
+
+#: ../modules/blog/module.php:137 ../modules/downloads/module.php:121
+#: ../modules/galleries/module.php:121 ../modules/partners/module.php:121
+#: ../modules/posts/module.php:137 ../modules/projects/module.php:121
+#: ../modules/staff/module.php:121 ../modules/testimonials/module.php:121
+#: ../modules/woocommerce/module.php:124
+msgid "Descending"
+msgstr ""
+
+#: ../modules/blog/module.php:143 ../modules/downloads/module.php:127
+#: ../modules/galleries/module.php:127 ../modules/partners/module.php:127
+#: ../modules/posts/module.php:143 ../modules/projects/module.php:127
+#: ../modules/staff/module.php:127 ../modules/testimonials/module.php:127
+#: ../modules/woocommerce/module.php:130
+msgid "Offset"
+msgstr ""
+
+#: ../modules/blog/module.php:152 ../modules/downloads/module.php:138
+#: ../modules/galleries/module.php:174 ../modules/infobox/module.php:26
+#: ../modules/partners/module.php:138 ../modules/posts/module.php:152
+#: ../modules/projects/module.php:138 ../modules/staff/module.php:155
+#: ../modules/testimonials/module.php:138 ../modules/tp-meta/module.php:15
+#: ../modules/woocommerce/module.php:141
+msgid "Elements"
+msgstr ""
+
+#: ../modules/blog/module.php:158 ../modules/downloads/module.php:144
+#: ../modules/galleries/module.php:180 ../modules/partners/module.php:144
+#: ../modules/posts/module.php:158 ../modules/projects/module.php:144
+#: ../modules/staff/module.php:161 ../modules/testimonials/module.php:144
+#: ../modules/woocommerce/module.php:147
+msgid "Heading"
+msgstr ""
+
+#: ../modules/blog/module.php:162 ../modules/downloads/module.php:148
+#: ../modules/galleries/module.php:184 ../modules/partners/module.php:148
+#: ../modules/posts/module.php:162 ../modules/projects/module.php:148
+#: ../modules/staff/module.php:165 ../modules/testimonials/module.php:148
+#: ../modules/woocommerce/module.php:151
+msgid "Filters"
+msgstr ""
+
+#: ../modules/blog/module.php:170 ../modules/downloads/module.php:156
+#: ../modules/galleries/module.php:192 ../modules/partners/module.php:156
+#: ../modules/posts/module.php:170 ../modules/projects/module.php:156
+#: ../modules/staff/module.php:173 ../modules/testimonials/module.php:156
+#: ../modules/woocommerce/module.php:159
+msgid "Post Elements"
+msgstr ""
+
+#: ../modules/blog/module.php:176 ../modules/downloads/module.php:162
+#: ../modules/galleries/module.php:198 ../modules/partners/module.php:162
+#: ../modules/posts/module.php:176 ../modules/projects/module.php:162
+#: ../modules/staff/module.php:179 ../modules/woocommerce/module.php:165
+msgid "Thumbnail"
+msgstr ""
+
+#: ../modules/blog/module.php:180 ../modules/downloads/module.php:166
+#: ../modules/galleries/module.php:206 ../modules/infobox/module.php:36
+#: ../modules/infobox/module.php:889 ../modules/partners/module.php:166
+#: ../modules/posts/module.php:180 ../modules/projects/module.php:166
+#: ../modules/staff/module.php:187 ../modules/woocommerce/module.php:173
+msgid "Title"
+msgstr ""
+
+#: ../modules/blog/module.php:184 ../modules/posts/module.php:184
+msgid "Meta"
+msgstr ""
+
+#: ../modules/blog/module.php:188 ../modules/downloads/module.php:174
+#: ../modules/galleries/module.php:214 ../modules/partners/module.php:170
+#: ../modules/posts/module.php:188 ../modules/projects/module.php:174
+#: ../modules/staff/module.php:195 ../modules/woocommerce/module.php:181
+msgid "Excerpt"
+msgstr ""
+
+#: ../modules/blog/module.php:192 ../modules/infobox/module.php:44
+#: ../modules/posts/module.php:192 ../modules/projects/module.php:178
+msgid "Button"
+msgstr ""
+
+#: ../modules/blog/module.php:200 ../modules/downloads/module.php:190
+#: ../modules/galleries/module.php:222 ../modules/partners/module.php:178
+#: ../modules/posts/module.php:200 ../modules/projects/module.php:186
+#: ../modules/staff/module.php:203 ../modules/testimonials/module.php:182
+#: ../modules/woocommerce/module.php:201
+msgid "Carousel Elements"
+msgstr ""
+
+#: ../modules/blog/module.php:206 ../modules/downloads/module.php:196
+#: ../modules/galleries/module.php:228 ../modules/partners/module.php:184
+#: ../modules/posts/module.php:206 ../modules/projects/module.php:192
+#: ../modules/staff/module.php:209 ../modules/testimonials/module.php:188
+#: ../modules/woocommerce/module.php:207
+msgid "Arrows"
+msgstr ""
+
+#: ../modules/blog/module.php:210 ../modules/downloads/module.php:200
+#: ../modules/galleries/module.php:232 ../modules/partners/module.php:188
+#: ../modules/posts/module.php:210 ../modules/projects/module.php:196
+#: ../modules/staff/module.php:213 ../modules/testimonials/module.php:192
+#: ../modules/woocommerce/module.php:211
+msgid "Circles"
+msgstr ""
+
+#: ../modules/blog/module.php:281 ../modules/blog/module.php:463
+#: ../modules/blog/module.php:634 ../modules/downloads/module.php:345
+#: ../modules/downloads/module.php:490 ../modules/galleries/module.php:377
+#: ../modules/galleries/module.php:788 ../modules/html/module.php:103
+#: ../modules/partners/module.php:333 ../modules/partners/module.php:480
+#: ../modules/posts/module.php:281 ../modules/posts/module.php:463
+#: ../modules/posts/module.php:634 ../modules/progress-bars/module.php:120
+#: ../modules/projects/module.php:341 ../modules/projects/module.php:486
+#: ../modules/staff/module.php:362 ../modules/staff/module.php:532
+#: ../modules/staff/module.php:683 ../modules/tabs/module.php:98
+#: ../modules/tabs/module.php:363 ../modules/testimonials/module.php:337
+#: ../modules/text-simple/module.php:103 ../modules/text-simple/module.php:317
+#: ../modules/text-simple/module.php:531 ../modules/text-simple/module.php:745
+#: ../modules/text-simple/module.php:959
+#: ../modules/text-simple/module.php:1173 ../modules/tp-content/module.php:95
+#: ../modules/tp-gallery-slider/module.php:135
+#: ../modules/tp-gallery-slider/module.php:258
+#: ../modules/tp-gallery-slider/module.php:374
+#: ../modules/tp-meta/module.php:132 ../modules/tp-thumbnail/module.php:98
+#: ../modules/tp-title/module.php:74 ../modules/widgets/module.php:120
+#: ../modules/widgets/module.php:243 ../modules/woocommerce/module.php:356
+#: ../modules/woocommerce/module.php:698
+msgid "Border Radius - Top"
+msgstr ""
+
+#: ../modules/blog/module.php:292 ../modules/blog/module.php:475
+#: ../modules/blog/module.php:646 ../modules/downloads/module.php:357
+#: ../modules/downloads/module.php:502 ../modules/galleries/module.php:389
+#: ../modules/galleries/module.php:800 ../modules/html/module.php:114
+#: ../modules/partners/module.php:345 ../modules/partners/module.php:492
+#: ../modules/posts/module.php:292 ../modules/posts/module.php:475
+#: ../modules/posts/module.php:646 ../modules/progress-bars/module.php:131
+#: ../modules/projects/module.php:353 ../modules/projects/module.php:498
+#: ../modules/staff/module.php:374 ../modules/staff/module.php:544
+#: ../modules/staff/module.php:695 ../modules/tabs/module.php:110
+#: ../modules/tabs/module.php:374 ../modules/testimonials/module.php:349
+#: ../modules/text-simple/module.php:114 ../modules/text-simple/module.php:329
+#: ../modules/text-simple/module.php:543 ../modules/text-simple/module.php:757
+#: ../modules/text-simple/module.php:971
+#: ../modules/text-simple/module.php:1185 ../modules/tp-content/module.php:106
+#: ../modules/tp-gallery-slider/module.php:146
+#: ../modules/tp-gallery-slider/module.php:270
+#: ../modules/tp-gallery-slider/module.php:386
+#: ../modules/tp-meta/module.php:143 ../modules/tp-thumbnail/module.php:109
+#: ../modules/tp-title/module.php:85 ../modules/widgets/module.php:131
+#: ../modules/widgets/module.php:255 ../modules/woocommerce/module.php:368
+#: ../modules/woocommerce/module.php:710
+msgid "Border Radius - Bottom"
+msgstr ""
+
+#: ../modules/blog/module.php:352 ../modules/downloads/module.php:234
+#: ../modules/galleries/module.php:266 ../modules/partners/module.php:222
+#: ../modules/posts/module.php:352 ../modules/projects/module.php:230
+#: ../modules/separator/module.php:24 ../modules/separator/module.php:85
+#: ../modules/separator/module.php:122 ../modules/staff/module.php:247
+#: ../modules/testimonials/module.php:226
+#: ../modules/woocommerce/module.php:245
+msgid "Height"
+msgstr ""
+
+#: ../modules/blog/module.php:366 ../modules/downloads/module.php:248
+#: ../modules/galleries/module.php:280 ../modules/partners/module.php:236
+#: ../modules/posts/module.php:366 ../modules/projects/module.php:244
+#: ../modules/separator/module.php:37 ../modules/staff/module.php:261
+#: ../modules/testimonials/module.php:240
+#: ../modules/woocommerce/module.php:259
+msgid "Style"
+msgstr ""
+
+#: ../modules/blog/module.php:372 ../modules/downloads/module.php:254
+#: ../modules/galleries/module.php:286 ../modules/partners/module.php:242
+#: ../modules/posts/module.php:372 ../modules/projects/module.php:250
+#: ../modules/separator/module.php:43 ../modules/staff/module.php:267
+#: ../modules/testimonials/module.php:246
+#: ../modules/woocommerce/module.php:265
+msgid "Invisible"
+msgstr ""
+
+#: ../modules/blog/module.php:376 ../modules/downloads/module.php:258
+#: ../modules/galleries/module.php:290 ../modules/partners/module.php:246
+#: ../modules/posts/module.php:376 ../modules/projects/module.php:254
+#: ../modules/projects/module.php:777 ../modules/separator/module.php:47
+#: ../modules/staff/module.php:271 ../modules/testimonials/module.php:250
+#: ../modules/woocommerce/module.php:269
+msgid "Solid"
+msgstr ""
+
+#: ../modules/blog/module.php:380 ../modules/downloads/module.php:262
+#: ../modules/galleries/module.php:294 ../modules/partners/module.php:250
+#: ../modules/posts/module.php:380 ../modules/projects/module.php:258
+#: ../modules/projects/module.php:781 ../modules/separator/module.php:51
+#: ../modules/staff/module.php:275 ../modules/testimonials/module.php:254
+#: ../modules/woocommerce/module.php:273
+msgid "Dashed"
+msgstr ""
+
+#: ../modules/blog/module.php:384 ../modules/downloads/module.php:266
+#: ../modules/galleries/module.php:298 ../modules/partners/module.php:254
+#: ../modules/posts/module.php:384 ../modules/projects/module.php:262
+#: ../modules/projects/module.php:785 ../modules/separator/module.php:55
+#: ../modules/staff/module.php:279 ../modules/testimonials/module.php:258
+#: ../modules/woocommerce/module.php:277
+msgid "Dotted"
+msgstr ""
+
+#: ../modules/blog/module.php:499 ../modules/button/module.php:296
+#: ../modules/infobox/module.php:410 ../modules/infobox/module.php:799
+#: ../modules/notification/module.php:309 ../modules/posts/module.php:499
+#: ../modules/testimonials/module.php:640
+#: ../modules/testimonials/module.php:733
+#: ../modules/tp-downloads-button/module.php:224
+msgid "Margin Right"
+msgstr ""
+
+#: ../modules/blog/module.php:535 ../modules/downloads/module.php:405
+#: ../modules/galleries/module.php:437 ../modules/partners/module.php:395
+#: ../modules/posts/module.php:535 ../modules/projects/module.php:401
+#: ../modules/staff/module.php:422 ../modules/woocommerce/module.php:416
+msgid "Resize - Height"
+msgstr ""
+
+#: ../modules/blog/module.php:543 ../modules/downloads/module.php:413
+#: ../modules/galleries/module.php:445 ../modules/partners/module.php:403
+#: ../modules/posts/module.php:543 ../modules/projects/module.php:409
+#: ../modules/staff/module.php:430 ../modules/woocommerce/module.php:424
+msgid "Resize - Width"
+msgstr ""
+
+#: ../modules/blog/module.php:552 ../modules/infobox/module.php:286
+#: ../modules/infobox/module.php:974 ../modules/infobox/module.php:1245
+#: ../modules/posts/module.php:552
+msgid "Width"
+msgstr ""
+
+#: ../modules/blog/module.php:571 ../modules/downloads/module.php:427
+#: ../modules/html/module.php:44 ../modules/partners/module.php:270
+#: ../modules/partners/module.php:417 ../modules/posts/module.php:571
+#: ../modules/projects/module.php:423 ../modules/staff/module.php:620
+#: ../modules/tabs/module.php:35 ../modules/tabs/module.php:304
+#: ../modules/testimonials/module.php:274 ../modules/text-simple/module.php:44
+#: ../modules/text-simple/module.php:254 ../modules/text-simple/module.php:468
+#: ../modules/text-simple/module.php:682 ../modules/text-simple/module.php:896
+#: ../modules/text-simple/module.php:1110 ../modules/tp-content/module.php:36
+#: ../modules/tp-gallery-slider/module.php:76
+#: ../modules/tp-gallery-slider/module.php:195
+#: ../modules/tp-gallery-slider/module.php:311
+#: ../modules/tp-meta/module.php:73 ../modules/tp-thumbnail/module.php:39
+msgid " BG Color"
+msgstr ""
+
+#: ../modules/blog/module.php:682 ../modules/downloads/module.php:514
+#: ../modules/galleries/module.php:812 ../modules/partners/module.php:369
+#: ../modules/partners/module.php:504 ../modules/posts/module.php:682
+#: ../modules/projects/module.php:510 ../modules/staff/module.php:707
+#: ../modules/woocommerce/module.php:722
+msgid "Minimum Height"
+msgstr ""
+
+#: ../modules/blog/module.php:696 ../modules/downloads/module.php:552
+#: ../modules/galleries/module.php:850 ../modules/html/module.php:224
+#: ../modules/html/module.php:327 ../modules/html/module.php:430
+#: ../modules/html/module.php:533 ../modules/html/module.php:636
+#: ../modules/html/module.php:739 ../modules/partners/module.php:542
+#: ../modules/posts/module.php:696 ../modules/projects/module.php:548
+#: ../modules/staff/module.php:745 ../modules/testimonials/module.php:539
+#: ../modules/text-simple/module.php:224 ../modules/text-simple/module.php:438
+#: ../modules/text-simple/module.php:652 ../modules/text-simple/module.php:866
+#: ../modules/text-simple/module.php:1080
+#: ../modules/text-simple/module.php:1294 ../modules/tp-content/module.php:216
+#: ../modules/tp-content/module.php:307 ../modules/tp-content/module.php:398
+#: ../modules/tp-content/module.php:489 ../modules/tp-content/module.php:580
+#: ../modules/tp-content/module.php:671 ../modules/tp-title/module.php:195
+#: ../modules/woocommerce/module.php:1007
+msgid "Text Align"
+msgstr ""
+
+#: ../modules/blog/module.php:711 ../modules/button/module.php:63
+#: ../modules/downloads/module.php:567 ../modules/galleries/module.php:576
+#: ../modules/galleries/module.php:865 ../modules/html/module.php:239
+#: ../modules/html/module.php:342 ../modules/html/module.php:445
+#: ../modules/html/module.php:548 ../modules/html/module.php:651
+#: ../modules/html/module.php:754 ../modules/image/module.php:100
+#: ../modules/image/module.php:233 ../modules/infobox/module.php:61
+#: ../modules/infobox/module.php:169 ../modules/partners/module.php:557
+#: ../modules/posts/module.php:711 ../modules/projects/module.php:563
+#: ../modules/staff/module.php:459 ../modules/staff/module.php:760
+#: ../modules/testimonials/module.php:554
+#: ../modules/text-simple/module.php:239 ../modules/text-simple/module.php:453
+#: ../modules/text-simple/module.php:667 ../modules/text-simple/module.php:881
+#: ../modules/text-simple/module.php:1095
+#: ../modules/text-simple/module.php:1309 ../modules/tp-content/module.php:231
+#: ../modules/tp-content/module.php:322 ../modules/tp-content/module.php:413
+#: ../modules/tp-content/module.php:504 ../modules/tp-content/module.php:595
+#: ../modules/tp-content/module.php:686 ../modules/tp-thumbnail/module.php:25
+#: ../modules/tp-title/module.php:210 ../modules/woocommerce/module.php:616
+#: ../modules/woocommerce/module.php:780
+#: ../modules/woocommerce/module.php:1022
+msgid "Center"
+msgstr ""
+
+#: ../modules/blog/module.php:735 ../modules/blog/module.php:1180
+#: ../modules/button/module.php:212 ../modules/button/module.php:285
+#: ../modules/downloads/module.php:593 ../modules/downloads/module.php:987
+#: ../modules/galleries/module.php:891 ../modules/infobox/module.php:738
+#: ../modules/partners/module.php:583 ../modules/posts/module.php:735
+#: ../modules/posts/module.php:1180 ../modules/projects/module.php:589
+#: ../modules/projects/module.php:976 ../modules/social/module.php:194
+#: ../modules/social/module.php:251 ../modules/staff/module.php:786
+#: ../modules/tp-comments-form/module.php:490
+#: ../modules/tp-downloads-button/module.php:151
+#: ../modules/tp-meta/module.php:203 ../modules/woocommerce/module.php:801
+msgid "Color - Hover"
+msgstr ""
+
+#: ../modules/blog/module.php:951 ../modules/downloads/module.php:743
+#: ../modules/posts/module.php:951 ../modules/tp-meta/module.php:252
+#: ../modules/widgets/module.php:482
+msgid "Link - Color"
+msgstr ""
+
+#: ../modules/blog/module.php:962 ../modules/downloads/module.php:754
+#: ../modules/posts/module.php:962 ../modules/widgets/module.php:493
+msgid "Link - Hover - Color"
+msgstr ""
+
+#: ../modules/blog/module.php:1051 ../modules/downloads/module.php:858
+#: ../modules/galleries/module.php:1058 ../modules/partners/module.php:721
+#: ../modules/posts/module.php:1051 ../modules/projects/module.php:865
+#: ../modules/staff/module.php:1055 ../modules/woocommerce/module.php:987
+msgid "Max Length ( amount of words )"
+msgstr ""
+
+#: ../modules/blog/module.php:1064 ../modules/downloads/module.php:871
+#: ../modules/galleries/module.php:663 ../modules/posts/module.php:1064
+#: ../modules/projects/module.php:889
+#: ../modules/tp-downloads-button/module.php:15
+msgid "Text"
+msgstr ""
+
+#: ../modules/blog/module.php:1083 ../modules/button/module.php:83
+#: ../modules/downloads/module.php:890 ../modules/infobox/module.php:641
+#: ../modules/notification/module.php:210 ../modules/posts/module.php:1083
+#: ../modules/projects/module.php:908
+#: ../modules/tp-comments-form/module.php:393
+#: ../modules/tp-downloads-button/module.php:33
+msgid "BG Color - Hover"
+msgstr ""
+
+#: ../modules/blog/module.php:1146 ../modules/button/module.php:103
+#: ../modules/downloads/module.php:912 ../modules/infobox/module.php:704
+#: ../modules/notification/module.php:232 ../modules/posts/module.php:1146
+#: ../modules/projects/module.php:942 ../modules/social/module.php:124
+#: ../modules/tp-comments-form/module.php:456
+#: ../modules/tp-downloads-button/module.php:53
+msgid "Border Color - Hover"
+msgstr ""
+
+#: ../modules/blog/module.php:1157 ../modules/button/module.php:152
+#: ../modules/downloads/module.php:964 ../modules/galleries/module.php:522
+#: ../modules/image/module.php:169 ../modules/infobox/module.php:240
+#: ../modules/infobox/module.php:365 ../modules/infobox/module.php:715
+#: ../modules/notification/module.php:79
+#: ../modules/notification/module.php:284 ../modules/posts/module.php:1157
+#: ../modules/progress-bars/module.php:351 ../modules/projects/module.php:953
+#: ../modules/social/module.php:173 ../modules/testimonials/module.php:721
+#: ../modules/tp-comments-form/module.php:78
+#: ../modules/tp-comments-form/module.php:268
+#: ../modules/tp-comments-form/module.php:467
+#: ../modules/tp-comments/module.php:76 ../modules/tp-comments/module.php:188
+#: ../modules/tp-comments/module.php:304 ../modules/tp-comments/module.php:432
+#: ../modules/tp-comments/module.php:485 ../modules/tp-comments/module.php:722
+#: ../modules/tp-downloads-button/module.php:102
+#: ../modules/woocommerce/module.php:512
+msgid "Border Radius"
+msgstr ""
+
+#: ../modules/blog/module.php:1253 ../modules/button/module.php:266
+#: ../modules/downloads/module.php:1060 ../modules/infobox/module.php:32
+#: ../modules/infobox/module.php:388 ../modules/infobox/module.php:853
+#: ../modules/posts/module.php:1253 ../modules/projects/module.php:1049
+#: ../modules/tp-downloads-button/module.php:205
+msgid "Icon"
+msgstr ""
+
+#: ../modules/blog/module.php:1261 ../modules/downloads/module.php:1068
+#: ../modules/infobox/module.php:861 ../modules/notification/module.php:337
+#: ../modules/posts/module.php:1261 ../modules/projects/module.php:1057
+#: ../modules/staff/module.php:592
+msgid "Icon - Color"
+msgstr ""
+
+#: ../modules/blog/module.php:1272 ../modules/posts/module.php:1272
+msgid "Icon - Hover - Color"
+msgstr ""
+
+#: ../modules/blog/module.php:1283 ../modules/button/module.php:379
+#: ../modules/button/module.php:462 ../modules/downloads/module.php:1079
+#: ../modules/infobox/module.php:872 ../modules/infobox/module.php:1000
+#: ../modules/infobox/module.php:1271 ../modules/posts/module.php:1283
+#: ../modules/projects/module.php:1068
+#: ../modules/tp-downloads-button/module.php:295
+#: ../modules/tp-downloads-button/module.php:366
+msgid "Icon - Margin Right"
+msgstr ""
+
+#: ../modules/blog/module.php:1330 ../modules/blog/module.php:1619
+#: ../modules/downloads/module.php:1180 ../modules/downloads/module.php:1445
+#: ../modules/partners/module.php:752 ../modules/partners/module.php:897
+#: ../modules/posts/module.php:1330 ../modules/posts/module.php:1619
+#: ../modules/projects/module.php:1115 ../modules/projects/module.php:1380
+#: ../modules/staff/module.php:1098 ../modules/staff/module.php:1351
+#: ../modules/testimonials/module.php:938
+#: ../modules/testimonials/module.php:1207
+msgid "Separator - Height"
+msgstr ""
+
+#: ../modules/blog/module.php:1344 ../modules/blog/module.php:1633
+#: ../modules/downloads/module.php:1194 ../modules/downloads/module.php:1459
+#: ../modules/galleries/module.php:1115 ../modules/galleries/module.php:1355
+#: ../modules/partners/module.php:766 ../modules/partners/module.php:911
+#: ../modules/posts/module.php:1344 ../modules/posts/module.php:1633
+#: ../modules/projects/module.php:1129 ../modules/projects/module.php:1394
+#: ../modules/staff/module.php:1112 ../modules/staff/module.php:1365
+msgid "Thumbnail - Margin Bottom"
+msgstr ""
+
+#: ../modules/blog/module.php:1356 ../modules/blog/module.php:1645
+#: ../modules/posts/module.php:1356 ../modules/posts/module.php:1645
+msgid "Thumbnail - Margin Right"
+msgstr ""
+
+#: ../modules/blog/module.php:1368 ../modules/blog/module.php:1657
+#: ../modules/downloads/module.php:1206 ../modules/downloads/module.php:1471
+#: ../modules/galleries/module.php:1127 ../modules/galleries/module.php:1367
+#: ../modules/partners/module.php:778 ../modules/partners/module.php:923
+#: ../modules/posts/module.php:1368 ../modules/posts/module.php:1657
+#: ../modules/projects/module.php:1141 ../modules/projects/module.php:1406
+#: ../modules/staff/module.php:1124 ../modules/staff/module.php:1377
+#: ../modules/woocommerce/module.php:1314
+#: ../modules/woocommerce/module.php:1591
+msgid "Thumbnail - Padding Vertical"
+msgstr ""
+
+#: ../modules/blog/module.php:1380 ../modules/blog/module.php:1669
+#: ../modules/downloads/module.php:1218 ../modules/downloads/module.php:1483
+#: ../modules/galleries/module.php:1139 ../modules/galleries/module.php:1379
+#: ../modules/posts/module.php:1380 ../modules/posts/module.php:1669
+#: ../modules/projects/module.php:1153 ../modules/projects/module.php:1418
+#: ../modules/staff/module.php:1136 ../modules/staff/module.php:1389
+#: ../modules/woocommerce/module.php:1326
+#: ../modules/woocommerce/module.php:1603
+msgid "Thumbnail - Padding Horizontal"
+msgstr ""
+
+#: ../modules/blog/module.php:1392 ../modules/blog/module.php:1681
+#: ../modules/downloads/module.php:1230 ../modules/downloads/module.php:1495
+#: ../modules/galleries/module.php:1211 ../modules/galleries/module.php:1451
+#: ../modules/partners/module.php:790 ../modules/partners/module.php:935
+#: ../modules/posts/module.php:1392 ../modules/posts/module.php:1681
+#: ../modules/projects/module.php:1165 ../modules/projects/module.php:1430
+#: ../modules/staff/module.php:1196 ../modules/staff/module.php:1449
+#: ../modules/testimonials/module.php:952
+#: ../modules/testimonials/module.php:1221
+#: ../modules/tp-comments/module.php:1058
+#: ../modules/tp-comments/module.php:1321
+#: ../modules/woocommerce/module.php:1374
+#: ../modules/woocommerce/module.php:1651
+msgid "Main - Padding Vertical"
+msgstr ""
+
+#: ../modules/blog/module.php:1404 ../modules/blog/module.php:1693
+#: ../modules/downloads/module.php:1242 ../modules/downloads/module.php:1507
+#: ../modules/galleries/module.php:1223 ../modules/galleries/module.php:1463
+#: ../modules/partners/module.php:802 ../modules/partners/module.php:947
+#: ../modules/posts/module.php:1404 ../modules/posts/module.php:1693
+#: ../modules/projects/module.php:1177 ../modules/projects/module.php:1442
+#: ../modules/staff/module.php:1208 ../modules/staff/module.php:1461
+#: ../modules/testimonials/module.php:964
+#: ../modules/testimonials/module.php:1233
+#: ../modules/tp-comments/module.php:1070
+#: ../modules/tp-comments/module.php:1333
+#: ../modules/woocommerce/module.php:1386
+#: ../modules/woocommerce/module.php:1663
+msgid "Main - Padding Horizontal"
+msgstr ""
+
+#: ../modules/blog/module.php:1428 ../modules/blog/module.php:1717
+#: ../modules/downloads/module.php:1266 ../modules/downloads/module.php:1531
+#: ../modules/galleries/module.php:1247 ../modules/galleries/module.php:1487
+#: ../modules/infobox/module.php:1052 ../modules/infobox/module.php:1323
+#: ../modules/partners/module.php:826 ../modules/partners/module.php:971
+#: ../modules/posts/module.php:1428 ../modules/posts/module.php:1717
+#: ../modules/projects/module.php:1201 ../modules/projects/module.php:1466
+#: ../modules/staff/module.php:1232 ../modules/staff/module.php:1485
+#: ../modules/widgets/module.php:599 ../modules/widgets/module.php:755
+#: ../modules/woocommerce/module.php:1410
+#: ../modules/woocommerce/module.php:1687
+msgid "Title - Line Height"
+msgstr ""
+
+#: ../modules/blog/module.php:1440 ../modules/blog/module.php:1729
+#: ../modules/downloads/module.php:1278 ../modules/downloads/module.php:1543
+#: ../modules/galleries/module.php:1259 ../modules/galleries/module.php:1499
+#: ../modules/infobox/module.php:1064 ../modules/infobox/module.php:1335
+#: ../modules/partners/module.php:838 ../modules/partners/module.php:983
+#: ../modules/posts/module.php:1440 ../modules/posts/module.php:1729
+#: ../modules/progress-bars/module.php:493
+#: ../modules/progress-bars/module.php:648 ../modules/projects/module.php:1213
+#: ../modules/projects/module.php:1478 ../modules/staff/module.php:1244
+#: ../modules/staff/module.php:1497 ../modules/widgets/module.php:611
+#: ../modules/widgets/module.php:767 ../modules/woocommerce/module.php:1422
+#: ../modules/woocommerce/module.php:1699
+msgid "Title - Margin Bottom"
+msgstr ""
+
+#: ../modules/blog/module.php:1452 ../modules/blog/module.php:1741
+#: ../modules/posts/module.php:1452 ../modules/posts/module.php:1741
+msgid "Meta - Font Size"
+msgstr ""
+
+#: ../modules/blog/module.php:1464 ../modules/blog/module.php:1753
+#: ../modules/posts/module.php:1464 ../modules/posts/module.php:1753
+msgid "Meta - Margin Bottom"
+msgstr ""
+
+#: ../modules/blog/module.php:1476 ../modules/blog/module.php:1765
+#: ../modules/posts/module.php:1476 ../modules/posts/module.php:1765
+msgid "Meta - Padding Vertical"
+msgstr ""
+
+#: ../modules/blog/module.php:1488 ../modules/blog/module.php:1777
+#: ../modules/posts/module.php:1488 ../modules/posts/module.php:1777
+msgid "Meta - Padding Horizontal"
+msgstr ""
+
+#: ../modules/blog/module.php:1500 ../modules/blog/module.php:1789
+#: ../modules/downloads/module.php:1314 ../modules/downloads/module.php:1579
+#: ../modules/galleries/module.php:1283 ../modules/galleries/module.php:1523
+#: ../modules/partners/module.php:850 ../modules/partners/module.php:995
+#: ../modules/posts/module.php:1500 ../modules/posts/module.php:1789
+#: ../modules/projects/module.php:1261 ../modules/projects/module.php:1526
+#: ../modules/staff/module.php:1292 ../modules/staff/module.php:1545
+#: ../modules/woocommerce/module.php:1446
+#: ../modules/woocommerce/module.php:1723
+msgid "Excerpt - Font Size"
+msgstr ""
+
+#: ../modules/blog/module.php:1512 ../modules/blog/module.php:1801
+#: ../modules/downloads/module.php:1326 ../modules/downloads/module.php:1591
+#: ../modules/galleries/module.php:1295 ../modules/galleries/module.php:1535
+#: ../modules/partners/module.php:862 ../modules/partners/module.php:1007
+#: ../modules/posts/module.php:1512 ../modules/posts/module.php:1801
+#: ../modules/projects/module.php:1273 ../modules/projects/module.php:1538
+#: ../modules/staff/module.php:1304 ../modules/staff/module.php:1557
+#: ../modules/woocommerce/module.php:1458
+#: ../modules/woocommerce/module.php:1735
+msgid "Excerpt - Line Height"
+msgstr ""
+
+#: ../modules/blog/module.php:1524 ../modules/blog/module.php:1813
+#: ../modules/downloads/module.php:1338 ../modules/downloads/module.php:1603
+#: ../modules/posts/module.php:1524 ../modules/posts/module.php:1813
+#: ../modules/projects/module.php:1285 ../modules/projects/module.php:1550
+#: ../modules/woocommerce/module.php:1470
+#: ../modules/woocommerce/module.php:1747
+msgid "Excerpt - Margin Bottom"
+msgstr ""
+
+#: ../modules/blog/module.php:1536 ../modules/blog/module.php:1825
+#: ../modules/downloads/module.php:1350 ../modules/downloads/module.php:1615
+#: ../modules/infobox/module.php:1112 ../modules/infobox/module.php:1383
+#: ../modules/posts/module.php:1536 ../modules/posts/module.php:1825
+#: ../modules/projects/module.php:1297 ../modules/projects/module.php:1562
+#: ../modules/tp-comments-form/module.php:718
+#: ../modules/tp-comments-form/module.php:909
+msgid "Button - Font Size"
+msgstr ""
+
+#: ../modules/blog/module.php:1548 ../modules/blog/module.php:1837
+#: ../modules/downloads/module.php:1374 ../modules/downloads/module.php:1639
+#: ../modules/infobox/module.php:1148 ../modules/infobox/module.php:1419
+#: ../modules/posts/module.php:1548 ../modules/posts/module.php:1837
+#: ../modules/projects/module.php:1309 ../modules/projects/module.php:1574
+#: ../modules/tp-comments-form/module.php:730
+#: ../modules/tp-comments-form/module.php:921
+msgid "Button - Padding Vertical"
+msgstr ""
+
+#: ../modules/blog/module.php:1560 ../modules/blog/module.php:1849
+#: ../modules/infobox/module.php:1160 ../modules/infobox/module.php:1431
+#: ../modules/posts/module.php:1560 ../modules/posts/module.php:1849
+#: ../modules/projects/module.php:1321 ../modules/projects/module.php:1586
+#: ../modules/tp-comments-form/module.php:742
+#: ../modules/tp-comments-form/module.php:933
+msgid "Button - Padding Horizontal"
+msgstr ""
+
+#: ../modules/blog/module.php:1572 ../modules/blog/module.php:1861
+#: ../modules/infobox/module.php:1172 ../modules/infobox/module.php:1443
+#: ../modules/posts/module.php:1572 ../modules/posts/module.php:1861
+msgid "Button - Icon - Margin Right"
+msgstr ""
+
+#: ../modules/blog/module.php:2080 ../modules/downloads/module.php:1880
+#: ../modules/galleries/module.php:1756 ../modules/partners/module.php:1224
+#: ../modules/posts/module.php:2080 ../modules/projects/module.php:1819
+#: ../modules/staff/module.php:1774 ../modules/testimonials/module.php:1650
+#: ../modules/woocommerce/module.php:2039
+msgid "All"
+msgstr ""
+
+#: ../modules/blog/module.php:2181 ../modules/posts/module.php:2181
+msgid "By"
+msgstr ""
+
+#: ../modules/button/module.php:19
+msgid "Button Text"
+msgstr ""
+
+#: ../modules/button/module.php:26
+msgid "URL"
+msgstr ""
+
+#: ../modules/button/module.php:32
+msgid "Open in"
+msgstr ""
+
+#: ../modules/button/module.php:38
+msgid "Same Tab"
+msgstr ""
+
+#: ../modules/button/module.php:42
+msgid "New Tab"
+msgstr ""
+
+#: ../modules/button/module.php:49 ../modules/image/module.php:86
+#: ../modules/image/module.php:218 ../modules/infobox/module.php:51
+#: ../modules/staff/module.php:444 ../modules/tp-thumbnail/module.php:15
+#: ../modules/woocommerce/module.php:765
+msgid "Align"
+msgstr ""
+
+#: ../modules/downloads/functions.php:14
+msgid "Downloads"
+msgstr ""
+
+#: ../modules/downloads/functions.php:15
+msgid "Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:16 ../modules/downloads/functions.php:17
+msgid "Add Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:19
+msgid "Edit Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:20
+msgid "New Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:21 ../modules/downloads/functions.php:22
+msgid "View Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:23
+msgid "Search Download Item"
+msgstr ""
+
+#: ../modules/downloads/functions.php:24
+msgid "No Download Item found"
+msgstr ""
+
+#: ../modules/downloads/functions.php:25
+msgid "No Download Item found in Trash"
+msgstr ""
+
+#: ../modules/downloads/functions.php:26
+msgid "Parent Download Item"
+msgstr ""
+
+#: ../modules/downloads/module.php:76 ../modules/staff/module.php:69
+#: ../modules/woocommerce/module.php:68
+msgid "Items Per Row"
+msgstr ""
+
+#: ../modules/downloads/module.php:170 ../modules/tp-meta/module.php:33
+msgid "Tags"
+msgstr ""
+
+#: ../modules/downloads/module.php:178
+msgid "Download Button"
+msgstr ""
+
+#: ../modules/downloads/module.php:182
+msgid "Download Count"
+msgstr ""
+
+#: ../modules/downloads/module.php:765
+msgid "Link - Font Weight"
+msgstr ""
+
+#: ../modules/downloads/module.php:1290 ../modules/downloads/module.php:1555
+msgid "Tags - Font Size"
+msgstr ""
+
+#: ../modules/downloads/module.php:1302 ../modules/downloads/module.php:1567
+msgid "Tags - Padding Vertical"
+msgstr ""
+
+#: ../modules/downloads/module.php:1362 ../modules/downloads/module.php:1627
+msgid "Button - Margin Bottom"
+msgstr ""
+
+#: ../modules/downloads/module.php:1386 ../modules/downloads/module.php:1651
+#: ../modules/projects/module.php:1333 ../modules/projects/module.php:1598
+msgid "Button Icon - Margin Right"
+msgstr ""
+
+#: ../modules/downloads/module.php:1398 ../modules/downloads/module.php:1663
+#: ../modules/galleries/module.php:613
+msgid "Count - Font Size"
+msgstr ""
+
+#: ../modules/downloads/module.php:2025
+#, php-format
+msgid "Downloaded %d times."
+msgstr ""
+
+#: ../modules/galleries/functions.php:23
+msgid "Galleries"
+msgstr ""
+
+#: ../modules/galleries/functions.php:24 ../modules/galleries/functions.php:25
+#: ../modules/galleries/functions.php:26
+msgid "Add Gallery"
+msgstr ""
+
+#: ../modules/galleries/functions.php:28
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../modules/galleries/functions.php:29
+msgid "New Gallery"
+msgstr ""
+
+#: ../modules/galleries/functions.php:30 ../modules/galleries/functions.php:31
+msgid "View Gallery"
+msgstr ""
+
+#: ../modules/galleries/functions.php:32
+msgid "Search Gallery"
+msgstr ""
+
+#: ../modules/galleries/functions.php:33
+msgid "No Gallery found"
+msgstr ""
+
+#: ../modules/galleries/functions.php:34
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../modules/galleries/functions.php:35
+msgid "Parent Gallery"
+msgstr ""
+
+#: ../modules/galleries/module.php:134
+msgid "Thumbnail - Link Behaviour"
+msgstr ""
+
+#: ../modules/galleries/module.php:140 ../modules/galleries/module.php:157
+msgid "Normal"
+msgstr ""
+
+#: ../modules/galleries/module.php:144 ../modules/galleries/module.php:161
+#: ../modules/image/module.php:47 ../modules/tp-thumbnail/module.php:120
+msgid "Lightbox"
+msgstr ""
+
+#: ../modules/galleries/module.php:151
+msgid "Title - Link Behaviour"
+msgstr ""
+
+#: ../modules/galleries/module.php:202
+msgid "Count"
+msgstr ""
+
+#: ../modules/galleries/module.php:210 ../modules/woocommerce/module.php:177
+msgid "Separator"
+msgstr ""
+
+#: ../modules/galleries/module.php:534 ../modules/woocommerce/module.php:562
+msgid "Margin"
+msgstr ""
+
+#: ../modules/galleries/module.php:546 ../modules/woocommerce/module.php:574
+msgid "Opacity"
+msgstr ""
+
+#: ../modules/galleries/module.php:560 ../modules/infobox/module.php:424
+#: ../modules/infobox/module.php:811 ../modules/progress-bars/module.php:265
+#: ../modules/staff/module.php:191 ../modules/testimonials/module.php:174
+#: ../modules/testimonials/module.php:569
+#: ../modules/woocommerce/module.php:600
+#: ../modules/woocommerce/module.php:1097
+msgid "Position"
+msgstr ""
+
+#: ../modules/galleries/module.php:568 ../modules/infobox/module.php:149
+#: ../modules/woocommerce/module.php:608
+msgid "Top Left"
+msgstr ""
+
+#: ../modules/galleries/module.php:572 ../modules/infobox/module.php:153
+#: ../modules/woocommerce/module.php:612
+msgid "Top Right"
+msgstr ""
+
+#: ../modules/galleries/module.php:580 ../modules/infobox/module.php:173
+#: ../modules/woocommerce/module.php:620
+msgid "Bottom Left"
+msgstr ""
+
+#: ../modules/galleries/module.php:584 ../modules/infobox/module.php:177
+#: ../modules/woocommerce/module.php:624
+msgid "Bottom Right"
+msgstr ""
+
+#: ../modules/galleries/module.php:590 ../modules/testimonials/module.php:745
+#: ../modules/woocommerce/module.php:588
+msgid "Padding"
+msgstr ""
+
+#: ../modules/galleries/module.php:602
+msgid "Count - Color"
+msgstr ""
+
+#: ../modules/galleries/module.php:625
+msgid "Count - Font Weight"
+msgstr ""
+
+#: ../modules/galleries/module.php:640
+msgid "Count - Font Family"
+msgstr ""
+
+#: ../modules/galleries/module.php:651
+msgid "Count - Margin Bottom"
+msgstr ""
+
+#: ../modules/galleries/module.php:671
+msgid "Text - Color"
+msgstr ""
+
+#: ../modules/galleries/module.php:682 ../modules/image/module.php:375
+#: ../modules/image/module.php:470
+msgid "Text - Font Size"
+msgstr ""
+
+#: ../modules/galleries/module.php:694
+msgid "Text - Font Weight"
+msgstr ""
+
+#: ../modules/galleries/module.php:709
+msgid "Text - Font Family"
+msgstr ""
+
+#: ../modules/galleries/module.php:1101 ../modules/galleries/module.php:1341
+#: ../modules/woocommerce/module.php:1300
+#: ../modules/woocommerce/module.php:1577
+msgid "Row Separator - Height"
+msgstr ""
+
+#: ../modules/galleries/module.php:1151 ../modules/galleries/module.php:1391
+msgid "Count Margin"
+msgstr ""
+
+#: ../modules/galleries/module.php:1163 ../modules/galleries/module.php:1403
+msgid "Count Padding"
+msgstr ""
+
+#: ../modules/galleries/module.php:1175 ../modules/galleries/module.php:1415
+msgid "Count Num - Font Size"
+msgstr ""
+
+#: ../modules/galleries/module.php:1187 ../modules/galleries/module.php:1427
+msgid "Count Num - Margin Bottom"
+msgstr ""
+
+#: ../modules/galleries/module.php:1199 ../modules/galleries/module.php:1439
+msgid "Count Text - Font Size"
+msgstr ""
+
+#: ../modules/galleries/module.php:1271 ../modules/galleries/module.php:1511
+#: ../modules/woocommerce/module.php:1506
+#: ../modules/woocommerce/module.php:1783
+msgid "Separator - Margin Bottom"
+msgstr ""
+
+#: ../modules/html/module.php:15
+msgid "HTML/Shortcode"
+msgstr ""
+
+#: ../modules/html/module.php:27 ../modules/text-simple/module.php:27
+#: ../modules/tp-content/module.php:19
+msgid "Enable/Disable Custom CSS"
+msgstr ""
+
+#: ../modules/html/module.php:769 ../modules/text-simple/module.php:1324
+#: ../modules/tp-content/module.php:701
+msgid "Link Color"
+msgstr ""
+
+#: ../modules/html/module.php:780 ../modules/text-simple/module.php:1335
+#: ../modules/tp-content/module.php:712
+msgid "Link - Hover Color"
+msgstr ""
+
+#: ../modules/html/module.php:874 ../modules/html/module.php:1139
+#: ../modules/text-simple/module.php:1429
+#: ../modules/text-simple/module.php:1694 ../modules/tp-content/module.php:806
+#: ../modules/tp-content/module.php:1009
+msgid "H2 - Font Size"
+msgstr ""
+
+#: ../modules/html/module.php:886 ../modules/html/module.php:1151
+#: ../modules/text-simple/module.php:1441
+#: ../modules/text-simple/module.php:1706 ../modules/tp-content/module.php:818
+#: ../modules/tp-content/module.php:1021
+msgid "H2 - Line Height"
+msgstr ""
+
+#: ../modules/html/module.php:898 ../modules/html/module.php:1163
+#: ../modules/text-simple/module.php:1453
+#: ../modules/text-simple/module.php:1718
+msgid "H2 - Margin Bottom"
+msgstr ""
+
+#: ../modules/html/module.php:910 ../modules/html/module.php:1175
+#: ../modules/text-simple/module.php:1465
+#: ../modules/text-simple/module.php:1730 ../modules/tp-content/module.php:830
+#: ../modules/tp-content/module.php:1033
+msgid "H3 - Font Size"
+msgstr ""
+
+#: ../modules/html/module.php:922 ../modules/html/module.php:1187
+#: ../modules/text-simple/module.php:1477
+#: ../modules/text-simple/module.php:1742 ../modules/tp-content/module.php:842
+#: ../modules/tp-content/module.php:1045
+msgid "H3 - Line Height"
+msgstr ""
+
+#: ../modules/html/module.php:934 ../modules/html/module.php:1199
+#: ../modules/text-simple/module.php:1489
+#: ../modules/text-simple/module.php:1754
+msgid "H3 - Margin Bottom"
+msgstr ""
+
+#: ../modules/html/module.php:946 ../modules/html/module.php:1211
+#: ../modules/text-simple/module.php:1501
+#: ../modules/text-simple/module.php:1766 ../modules/tp-content/module.php:854
+#: ../modules/tp-content/module.php:1057
+msgid "H4 - Font Size"
+msgstr ""
+
+#: ../modules/html/module.php:958 ../modules/html/module.php:1223
+#: ../modules/text-simple/module.php:1513
+#: ../modules/text-simple/module.php:1778 ../modules/tp-content/module.php:866
+#: ../modules/tp-content/module.php:1069
+msgid "H4 - Line Height"
+msgstr ""
+
+#: ../modules/html/module.php:970 ../modules/html/module.php:1235
+#: ../modules/text-simple/module.php:1525
+#: ../modules/text-simple/module.php:1790
+msgid "H4 - Margin Bottom"
+msgstr ""
+
+#: ../modules/html/module.php:982 ../modules/html/module.php:1247
+#: ../modules/text-simple/module.php:1537
+#: ../modules/text-simple/module.php:1802 ../modules/tp-content/module.php:878
+#: ../modules/tp-content/module.php:1081
+msgid "H5 - Font Size"
+msgstr ""
+
+#: ../modules/html/module.php:994 ../modules/html/module.php:1259
+#: ../modules/text-simple/module.php:1549
+#: ../modules/text-simple/module.php:1814 ../modules/tp-content/module.php:890
+#: ../modules/tp-content/module.php:1093
+msgid "H5 - Line Height"
+msgstr ""
+
+#: ../modules/html/module.php:1006 ../modules/html/module.php:1271
+#: ../modules/text-simple/module.php:1561
+#: ../modules/text-simple/module.php:1826
+msgid "H5 - Margin Bottom"
+msgstr ""
+
+#: ../modules/html/module.php:1018 ../modules/html/module.php:1283
+#: ../modules/text-simple/module.php:1573
+#: ../modules/text-simple/module.php:1838 ../modules/tp-content/module.php:902
+#: ../modules/tp-content/module.php:1105
+msgid "H6 - Font Size"
+msgstr ""
+
+#: ../modules/html/module.php:1030 ../modules/html/module.php:1295
+#: ../modules/text-simple/module.php:1585
+#: ../modules/text-simple/module.php:1850 ../modules/tp-content/module.php:914
+#: ../modules/tp-content/module.php:1117
+msgid "H6 - Line Height"
+msgstr ""
+
+#: ../modules/html/module.php:1042 ../modules/html/module.php:1307
+#: ../modules/text-simple/module.php:1597
+#: ../modules/text-simple/module.php:1862
+msgid "H6 - Margin Bottom"
+msgstr ""
+
+#: ../modules/image/module.php:15
+msgid "CT"
+msgstr ""
+
+#: ../modules/image/module.php:23
+msgid "Image"
+msgstr ""
+
+#: ../modules/image/module.php:29
+msgid "Link Type"
+msgstr ""
+
+#: ../modules/image/module.php:35
+msgid "None"
+msgstr ""
+
+#: ../modules/image/module.php:39
+msgid "URL - Same Tab"
+msgstr ""
+
+#: ../modules/image/module.php:43
+msgid "URL - New Tab"
+msgstr ""
+
+#: ../modules/image/module.php:53
+msgid "Link - URL"
+msgstr ""
+
+#: ../modules/image/module.php:59
+msgid "Link - Lightbox Image"
+msgstr ""
+
+#: ../modules/image/module.php:65
+msgid "Custom Text"
+msgstr ""
+
+#: ../modules/image/module.php:304 ../modules/infobox/module.php:396
+#: ../modules/infobox/module.php:787 ../modules/notification/module.php:296
+#: ../modules/testimonials/module.php:615
+#: ../modules/testimonials/module.php:837
+msgid "Margin Top"
+msgstr ""
+
+#: ../modules/image/module.php:387 ../modules/image/module.php:482
+msgid "Text - Line Height"
+msgstr ""
+
+#: ../modules/image/module.php:399 ../modules/image/module.php:494
+msgid "Text - Margin Top"
+msgstr ""
+
+#: ../modules/image/module.php:548
+msgid "No image has been set yet, edit the module to set one."
+msgstr ""
+
+#: ../modules/infobox/module.php:15
+msgid "Button Link"
+msgstr ""
+
+#: ../modules/infobox/module.php:40 ../modules/infobox/module.php:897
+#: ../modules/notification/module.php:126 ../modules/text-simple/module.php:14
+msgid "Content"
+msgstr ""
+
+#: ../modules/infobox/module.php:85
+msgid "BG Image"
+msgstr ""
+
+#: ../modules/infobox/module.php:95
+msgid "BG Image Repeat"
+msgstr ""
+
+#: ../modules/infobox/module.php:101
+msgid "Repeat"
+msgstr ""
+
+#: ../modules/infobox/module.php:105
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: ../modules/infobox/module.php:109
+msgid "Repeat Vertical"
+msgstr ""
+
+#: ../modules/infobox/module.php:113
+msgid "Do NOT Repeat"
+msgstr ""
+
+#: ../modules/infobox/module.php:123
+msgid "BG Image Attachment"
+msgstr ""
+
+#: ../modules/infobox/module.php:129
+msgid "Scroll"
+msgstr ""
+
+#: ../modules/infobox/module.php:133
+msgid "Fixed"
+msgstr ""
+
+#: ../modules/infobox/module.php:143
+msgid "BG Image Position"
+msgstr ""
+
+#: ../modules/infobox/module.php:157
+msgid "Top Center"
+msgstr ""
+
+#: ../modules/infobox/module.php:161
+msgid "Center Left"
+msgstr ""
+
+#: ../modules/infobox/module.php:165
+msgid "Center Right"
+msgstr ""
+
+#: ../modules/infobox/module.php:181
+msgid "Bottom Center"
+msgstr ""
+
+#: ../modules/infobox/module.php:430 ../modules/progress-bars/module.php:271
+msgid "Above"
+msgstr ""
+
+#: ../modules/infobox/module.php:434
+msgid "Aside"
+msgstr ""
+
+#: ../modules/infobox/module.php:442 ../modules/social/module.php:309
+#: ../modules/social/module.php:380
+msgid "Size ( Wrapper )"
+msgstr ""
+
+#: ../modules/infobox/module.php:456 ../modules/social/module.php:321
+#: ../modules/social/module.php:392
+msgid "Size ( Icon )"
+msgstr ""
+
+#: ../modules/infobox/module.php:817
+msgid "Right of content"
+msgstr ""
+
+#: ../modules/infobox/module.php:821
+msgid "Bellow content"
+msgstr ""
+
+#: ../modules/infobox/module.php:905
+msgid "Button Title"
+msgstr ""
+
+#: ../modules/infobox/module.php:986 ../modules/infobox/module.php:1257
+msgid "Icon - Margin Top"
+msgstr ""
+
+#: ../modules/infobox/module.php:1014 ../modules/infobox/module.php:1285
+#: ../modules/notification/module.php:454
+#: ../modules/notification/module.php:561
+msgid "Icon - Size ( Wrapper )"
+msgstr ""
+
+#: ../modules/infobox/module.php:1028 ../modules/infobox/module.php:1299
+msgid "Icon - Size ( Icon )"
+msgstr ""
+
+#: ../modules/infobox/module.php:1100 ../modules/infobox/module.php:1371
+msgid "Content - Margin Bottom"
+msgstr ""
+
+#: ../modules/infobox/module.php:1124 ../modules/infobox/module.php:1395
+msgid "Button - Margin Top"
+msgstr ""
+
+#: ../modules/infobox/module.php:1136 ../modules/infobox/module.php:1407
+msgid "Button - Margin Right"
+msgstr ""
+
+#: ../modules/notification/module.php:322
+#: ../modules/progress-bars/module.php:410 ../modules/social/module.php:215
+#: ../modules/social/module.php:262 ../modules/testimonials/module.php:757
+#: ../modules/tp-gallery-slider/module.php:461
+msgid "Size"
+msgstr ""
+
+#: ../modules/notification/module.php:348
+msgid "Icon - Color - Hover"
+msgstr ""
+
+#: ../modules/notification/module.php:359 ../modules/staff/module.php:603
+msgid "Icon - Size"
+msgstr ""
+
+#: ../modules/notification/module.php:466
+#: ../modules/notification/module.php:573
+msgid "Icom - Size ( Icon )"
+msgstr ""
+
+#: ../modules/partners/functions.php:8
+msgid "Partners"
+msgstr ""
+
+#: ../modules/partners/functions.php:9
+msgid "Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:10 ../modules/partners/functions.php:11
+msgid "Add Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:13
+msgid "Edit Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:14
+msgid "New Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:15 ../modules/partners/functions.php:16
+msgid "View Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:17
+msgid "Search Partner"
+msgstr ""
+
+#: ../modules/partners/functions.php:18
+msgid "No Partner found"
+msgstr ""
+
+#: ../modules/partners/functions.php:19
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: ../modules/partners/functions.php:20
+msgid "Parent Partner"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:15
+msgid "Label"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:28
+msgid "Amount"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:39
+#: ../modules/tp-gallery-slider/module.php:15
+msgid "Animation"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:49
+msgid "Enabled "
+msgstr ""
+
+#: ../modules/progress-bars/module.php:275
+msgid "Inside "
+msgstr ""
+
+#: ../modules/progress-bars/module.php:529
+#: ../modules/progress-bars/module.php:684
+msgid "Bar - Margin Bottom"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:541
+#: ../modules/progress-bars/module.php:696
+msgid "Bar - Padding Vertical"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:553
+#: ../modules/progress-bars/module.php:708
+msgid "Bar - Padding Horizontal"
+msgstr ""
+
+#: ../modules/progress-bars/module.php:565
+#: ../modules/progress-bars/module.php:720
+msgid "Bar - Size"
+msgstr ""
+
+#: ../modules/projects/functions.php:8
+msgid "Projects"
+msgstr ""
+
+#: ../modules/projects/functions.php:9
+msgid "Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:10 ../modules/projects/functions.php:11
+msgid "Add Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:13
+msgid "Edit Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:14
+msgid "New Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:15 ../modules/projects/functions.php:16
+msgid "View Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:17
+msgid "Search Project"
+msgstr ""
+
+#: ../modules/projects/functions.php:18
+msgid "No Project found"
+msgstr ""
+
+#: ../modules/projects/functions.php:19
+msgid "No Project found in Trash"
+msgstr ""
+
+#: ../modules/projects/functions.php:20
+msgid "Parent Project"
+msgstr ""
+
+#: ../modules/projects/module.php:744
+msgid "Border Top Color"
+msgstr ""
+
+#: ../modules/projects/module.php:755
+msgid "Border Top Width"
+msgstr ""
+
+#: ../modules/projects/module.php:767
+msgid "Border Top Style"
+msgstr ""
+
+#: ../modules/projects/module.php:873 ../modules/testimonials/module.php:527
+#: ../modules/tp-comments/module.php:328
+msgid "Padding Top"
+msgstr ""
+
+#: ../modules/projects/module.php:1225 ../modules/projects/module.php:1490
+msgid "Categories - Font Size"
+msgstr ""
+
+#: ../modules/projects/module.php:1237 ../modules/projects/module.php:1502
+msgid "Categories - Line Height"
+msgstr ""
+
+#: ../modules/projects/module.php:1249 ../modules/projects/module.php:1514
+msgid "Categories - Margin Bottom"
+msgstr ""
+
+#: ../modules/separator/module.php:14 ../modules/tabs/module.php:122
+#: ../modules/tabs/module.php:385
+msgid " Color"
+msgstr ""
+
+#: ../modules/separator/module.php:154
+msgid "TRANSPARENT SEPARATOR"
+msgstr ""
+
+#: ../modules/sliders/module.php:19
+msgid "-- Select --"
+msgstr ""
+
+#: ../modules/sliders/module.php:36
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../modules/sliders/module.php:64
+msgid ""
+"Click the cog icon on the right of this box to choose which slider to show."
+msgstr ""
+
+#: ../modules/social/module.php:19
+msgid "Twitter"
+msgstr ""
+
+#: ../modules/social/module.php:25
+msgid "Facebook"
+msgstr ""
+
+#: ../modules/social/module.php:31
+msgid "Youtube"
+msgstr ""
+
+#: ../modules/social/module.php:37
+msgid "Vimeo"
+msgstr ""
+
+#: ../modules/social/module.php:43
+msgid "Tumblr"
+msgstr ""
+
+#: ../modules/social/module.php:49
+msgid "Pinterest"
+msgstr ""
+
+#: ../modules/social/module.php:55
+msgid "LinkedIn"
+msgstr ""
+
+#: ../modules/social/module.php:61 ../modules/social/module.php:103
+msgid "Instagram"
+msgstr ""
+
+#: ../modules/social/module.php:67
+msgid "GitHub"
+msgstr ""
+
+#: ../modules/social/module.php:73
+msgid "Google Plus"
+msgstr ""
+
+#: ../modules/social/module.php:79
+msgid "Dribbble"
+msgstr ""
+
+#: ../modules/social/module.php:85
+msgid "Dropbox"
+msgstr ""
+
+#: ../modules/social/module.php:91
+msgid "Flickr"
+msgstr ""
+
+#: ../modules/social/module.php:97
+msgid "FourSquare"
+msgstr ""
+
+#: ../modules/social/module.php:226 ../modules/social/module.php:333
+#: ../modules/social/module.php:404
+#: ../modules/tp-gallery-slider/module.php:473
+#: ../modules/tp-meta/module.php:61 ../modules/widgets/module.php:291
+msgid "Spacing"
+msgstr ""
+
+#: ../modules/staff/functions.php:47
+msgid "Staff"
+msgstr ""
+
+#: ../modules/staff/functions.php:48
+msgid "Staff Member"
+msgstr ""
+
+#: ../modules/staff/functions.php:49
+msgid "Add Staff"
+msgstr ""
+
+#: ../modules/staff/functions.php:50
+msgid "Add Staff Member"
+msgstr ""
+
+#: ../modules/staff/functions.php:51
+msgid "Edit Staff"
+msgstr ""
+
+#: ../modules/staff/functions.php:52
+msgid "Edit Staff Member"
+msgstr ""
+
+#: ../modules/staff/functions.php:53
+msgid "New Staff Member"
+msgstr ""
+
+#: ../modules/staff/functions.php:54
+msgid "View Staff"
+msgstr ""
+
+#: ../modules/staff/functions.php:55
+msgid "View Staff Member"
+msgstr ""
+
+#: ../modules/staff/functions.php:56
+msgid "Search Staff"
+msgstr ""
+
+#: ../modules/staff/functions.php:57
+msgid "No Staff found"
+msgstr ""
+
+#: ../modules/staff/functions.php:58
+msgid "No Staff found in Trash"
+msgstr ""
+
+#: ../modules/staff/functions.php:59
+msgid "Parent Staff Member"
+msgstr ""
+
+#: ../modules/staff/module.php:133
+msgid "Social - Link Behaviour"
+msgstr ""
+
+#: ../modules/staff/module.php:139
+msgid "Open in same tab"
+msgstr ""
+
+#: ../modules/staff/module.php:143
+msgid "Open in new tab"
+msgstr ""
+
+#: ../modules/staff/module.php:183
+msgid "Social Links"
+msgstr ""
+
+#: ../modules/staff/module.php:1148 ../modules/staff/module.php:1401
+msgid "Social - Margin Bottom"
+msgstr ""
+
+#: ../modules/staff/module.php:1160 ../modules/staff/module.php:1413
+msgid "Social - Padding Vertical"
+msgstr ""
+
+#: ../modules/staff/module.php:1172 ../modules/staff/module.php:1425
+msgid "Social - Padding Horizontal"
+msgstr ""
+
+#: ../modules/staff/module.php:1184 ../modules/staff/module.php:1437
+msgid "Social Icon - Size"
+msgstr ""
+
+#: ../modules/staff/module.php:1256 ../modules/staff/module.php:1509
+#: ../modules/testimonials/module.php:1160
+#: ../modules/testimonials/module.php:1429
+msgid "Position - Font Size"
+msgstr ""
+
+#: ../modules/staff/module.php:1268 ../modules/staff/module.php:1521
+msgid "Position - Margin Bottom"
+msgstr ""
+
+#: ../modules/staff/module.php:1280 ../modules/staff/module.php:1533
+msgid "Position - Padding Vertical"
+msgstr ""
+
+#: ../modules/tabs/module.php:14
+msgid "(hidden) Tabs Content"
+msgstr ""
+
+#: ../modules/tabs/module.php:22
+msgid "(hidden) Tabs Nav"
+msgstr ""
+
+#: ../modules/tabs/module.php:195
+msgid "Spacing - Items"
+msgstr ""
+
+#: ../modules/tabs/module.php:209 ../modules/tabs/module.php:607
+#: ../modules/tabs/module.php:752
+msgid "Spacing - Nav and Content"
+msgstr ""
+
+#: ../modules/tabs/module.php:248 ../modules/woocommerce/module.php:891
+msgid "Border Bottom Color"
+msgstr ""
+
+#: ../modules/tabs/module.php:557 ../modules/tabs/module.php:702
+msgid "Nav - Font Size"
+msgstr ""
+
+#: ../modules/tabs/module.php:569 ../modules/tabs/module.php:714
+msgid "Nav - Padding Vertical"
+msgstr ""
+
+#: ../modules/tabs/module.php:581 ../modules/tabs/module.php:726
+msgid "Nav - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tabs/module.php:593 ../modules/tabs/module.php:738
+#: ../modules/tp-gallery-slider/module.php:616
+#: ../modules/tp-gallery-slider/module.php:759
+msgid "Nav - Spacing"
+msgstr ""
+
+#: ../modules/tabs/module.php:806
+msgid "Click to edit"
+msgstr ""
+
+#: ../modules/tabs/module.php:842
+msgid "This is just placeholder text. Click here to edit it."
+msgstr ""
+
+#: ../modules/testimonials/functions.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:24
+msgid "Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:25
+#: ../modules/testimonials/functions.php:26
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:28
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:30
+#: ../modules/testimonials/functions.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:32
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:33
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:34
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../modules/testimonials/functions.php:35
+msgid "Parent Testimonial"
+msgstr ""
+
+#: ../modules/testimonials/module.php:162
+msgid "Quote"
+msgstr ""
+
+#: ../modules/testimonials/module.php:166
+msgid "Avatar"
+msgstr ""
+
+#: ../modules/testimonials/module.php:170
+msgid "Name"
+msgstr ""
+
+#: ../modules/testimonials/module.php:515
+#: ../modules/tp-comments/module.php:340 ../modules/widgets/module.php:404
+#: ../modules/woocommerce/module.php:995
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:577
+msgid "Inside Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:581
+msgid "Inside Top"
+msgstr ""
+
+#: ../modules/testimonials/module.php:585
+msgid "Outside Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:589
+msgid "Outside Top"
+msgstr ""
+
+#: ../modules/testimonials/module.php:627
+msgid "Margin Left"
+msgstr ""
+
+#: ../modules/testimonials/module.php:976
+#: ../modules/testimonials/module.php:1245
+msgid "Quote - Font Size"
+msgstr ""
+
+#: ../modules/testimonials/module.php:988
+#: ../modules/testimonials/module.php:1257
+msgid "Quote - Line Height"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1000
+#: ../modules/testimonials/module.php:1269
+msgid "Quote - Margin Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1012
+#: ../modules/testimonials/module.php:1281
+msgid "Quote - Padding Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1024
+#: ../modules/testimonials/module.php:1293
+msgid "Quote - Padding Top"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1036
+#: ../modules/testimonials/module.php:1305
+msgid "Author - Margin Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1048
+#: ../modules/testimonials/module.php:1317
+msgid "Author - Margin Top"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1060
+#: ../modules/testimonials/module.php:1329
+msgid "Author - Margin Left"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1073
+#: ../modules/testimonials/module.php:1342
+msgid "Author - Margin Right"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1086
+#: ../modules/testimonials/module.php:1355
+msgid "Avatar - Margin Right"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1098
+#: ../modules/testimonials/module.php:1367
+msgid "Avatar - Padding"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1110
+#: ../modules/testimonials/module.php:1379
+msgid "Avatar - Size"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1124
+#: ../modules/testimonials/module.php:1393
+msgid "Name - Font Size"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1136
+#: ../modules/testimonials/module.php:1405
+msgid "Name - Margin Bottom"
+msgstr ""
+
+#: ../modules/testimonials/module.php:1148
+#: ../modules/testimonials/module.php:1417
+msgid "Name - Margin Top"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:622
+#: ../modules/tp-comments-form/module.php:813
+msgid "Heading - Font Size"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:634
+#: ../modules/tp-comments-form/module.php:825
+msgid "Heading - Line Height"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:646
+#: ../modules/tp-comments-form/module.php:837
+msgid "Heading - Margin Bottom"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:658
+#: ../modules/tp-comments-form/module.php:849
+msgid "Inputs - Font Size"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:670
+#: ../modules/tp-comments-form/module.php:861
+msgid "Inputs - Line Height"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:682
+#: ../modules/tp-comments-form/module.php:873
+msgid "Inputs - Margin Bottom"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:694
+#: ../modules/tp-comments-form/module.php:885
+msgid "Inputs - Padding Vertical"
+msgstr ""
+
+#: ../modules/tp-comments-form/module.php:706
+#: ../modules/tp-comments-form/module.php:897
+msgid "Inputs - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-comments/functions.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: ../modules/tp-comments/functions.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: ../modules/tp-comments/functions.php:44
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../modules/tp-comments/module.php:878
+#: ../modules/tp-comments/module.php:1141
+msgid "Comment - Margin Bottom"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:890
+#: ../modules/tp-comments/module.php:1153
+msgid "Comment - Padding Vertical"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:902
+#: ../modules/tp-comments/module.php:1165
+msgid "Comment - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:914
+#: ../modules/tp-comments/module.php:1177
+msgid "C. Inner - Margin Bottom"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:926
+#: ../modules/tp-comments/module.php:1189
+msgid "C. Inner - Padding Top"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:938
+#: ../modules/tp-comments/module.php:1201
+msgid "C. Inner - Padding Bottom"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:950
+#: ../modules/tp-comments/module.php:1213
+msgid "C. Inner - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:962
+#: ../modules/tp-comments/module.php:1225
+msgid "Info - Margin Bottom"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:974
+#: ../modules/tp-comments/module.php:1237
+msgid "Info - Padding Vertical"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:986
+#: ../modules/tp-comments/module.php:1249
+msgid "Info - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:998
+#: ../modules/tp-comments/module.php:1261
+msgid "Info Author- Font Size"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:1010
+#: ../modules/tp-comments/module.php:1273
+msgid "Info Date - Font Size"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:1022
+#: ../modules/tp-comments/module.php:1285
+msgid "Reply - Font Size"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:1034
+#: ../modules/tp-comments/module.php:1297
+msgid "Main - Font Size"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:1046
+#: ../modules/tp-comments/module.php:1309
+msgid "Main - Line Height"
+msgstr ""
+
+#: ../modules/tp-comments/module.php:1482
+msgid "Comments are closed."
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:21
+msgid "Fade"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:25
+msgid "Fade Up Slide"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:29
+msgid "Slide"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:33
+msgid "Back Slide"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:37
+msgid "Go Down"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:43
+msgid "Animation Speed (ms)"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:49
+msgid "Autoplay Speed (ms)"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:55
+msgid "Flexible Height"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:438
+msgid "Color - Active"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:449
+msgid "Margin Vertical"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:544
+#: ../modules/tp-gallery-slider/module.php:687
+msgid "Slider - Padding Vertical"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:556
+#: ../modules/tp-gallery-slider/module.php:699
+msgid "Slider - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:568
+#: ../modules/tp-gallery-slider/module.php:711
+msgid "Slider Item - Padding Vertical"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:580
+#: ../modules/tp-gallery-slider/module.php:723
+msgid "Slider Item - Padding Horizontal"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:592
+#: ../modules/tp-gallery-slider/module.php:735
+msgid "Nav - Margin Vertical"
+msgstr ""
+
+#: ../modules/tp-gallery-slider/module.php:604
+#: ../modules/tp-gallery-slider/module.php:747
+msgid "Nav - Size"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:21
+msgid "Date"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:25
+msgid "Author"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:29
+msgid "Category"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:37
+msgid "Comments"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:44
+msgid "Format"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:263
+msgid "Link - Color - Hover"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:426
+msgid "No Comments"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:428
+msgid " Comments"
+msgstr ""
+
+#: ../modules/tp-meta/module.php:430
+msgid "1 Comment"
+msgstr ""
+
+#: ../modules/widgets/module.php:19
+msgid "Choose sidebar"
+msgstr ""
+
+#: ../modules/widgets/module.php:42
+msgid "Widgets"
+msgstr ""
+
+#: ../modules/widgets/module.php:49
+msgid "Widgets Per Row"
+msgstr ""
+
+#: ../modules/widgets/module.php:563 ../modules/widgets/module.php:719
+msgid "Widget - Padding Vertical"
+msgstr ""
+
+#: ../modules/widgets/module.php:575 ../modules/widgets/module.php:731
+msgid "Widget - Padding Horizontal"
+msgstr ""
+
+#: ../modules/widgets/module.php:623 ../modules/widgets/module.php:779
+msgid "Title - Padding Bottom"
+msgstr ""
+
+#: ../modules/widgets/module.php:844
+msgid ""
+"The sidebar you have chosen is empty. Click the refresh icon on the right "
+"when you add a widget."
+msgstr ""
+
+#: ../modules/widgets/module.php:852
+msgid ""
+"Click the cog icon on the right of this box to choose which sidebar to show."
+msgstr ""
+
+#: ../modules/woocommerce/module.php:108 ../modules/woocommerce/module.php:169
+msgid "Price"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:185
+msgid "Price Secondary"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:189
+msgid "Add to cart"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:193
+msgid "Details"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:874
+msgid "Margin Horizontal"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:902
+msgid "Border Bottom Width"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1048
+msgid "Color ( Non-discount price )"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1151
+msgid "Add to cart - Text"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1159
+msgid "Add to cart - Color"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1170
+#: ../modules/woocommerce/module.php:1518
+#: ../modules/woocommerce/module.php:1795
+msgid "Add to cart - Font Size"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1182
+msgid "Add to cart - Font Weight"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1197
+msgid "Add to cart - Font Family"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1208
+msgid "Details - Text"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1216
+msgid "Details - Color"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1227
+#: ../modules/woocommerce/module.php:1530
+#: ../modules/woocommerce/module.php:1807
+msgid "Details - Font Size"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1239
+msgid "Details - Font Weight"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1254
+msgid "Details - Font Family"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1338
+#: ../modules/woocommerce/module.php:1615
+msgid "Price - Font Size"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1350
+#: ../modules/woocommerce/module.php:1627
+msgid "Price - Margin"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1362
+#: ../modules/woocommerce/module.php:1639
+msgid "Price - Padding"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1434
+#: ../modules/woocommerce/module.php:1711
+msgid "Title - Margin Horizontal"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1482
+#: ../modules/woocommerce/module.php:1759
+msgid "Excerpt - Padding Bottom"
+msgstr ""
+
+#: ../modules/woocommerce/module.php:1494
+#: ../modules/woocommerce/module.php:1771
+msgid "Price 2nd - Font Size"
+msgstr ""
+
+#: ../wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr ""
